@@ -1,0 +1,8 @@
+[
+  { "templateUid": "idbMArRHrKTo", "templateName": "알림장B_표지", "templateKind": "cover" },
+  { "templateUid": "3s2cjqIuh1vi", "templateName": "알림장B_간지", "templateKind": "divider" },
+  { "templateUid": "2rSDdrabgqlr", "templateName": "알림장B_내지", "templateKind": "content" },
+  { "templateUid": "1Tjgb7UpvetN", "templateName": "알림장B_내지_월시작", "templateKind": "content" },
+  { "templateUid": "16CwXBtvmgVN", "templateName": "알림장B_발행면", "templateKind": "publish" },
+  { "templateUid": "1GtF7gRSeKAX", "templateName": "알림장B_빈내지", "templateKind": "content" }
+]
