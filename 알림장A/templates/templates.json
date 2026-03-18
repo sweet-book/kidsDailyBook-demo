@@ -1,0 +1,8 @@
+[
+  { "templateUid": "39kySqmyRhhs", "templateName": "알림장A_표지", "templateKind": "cover" },
+  { "templateUid": "6UxZUzLqtdk2", "templateName": "알림장A_간지", "templateKind": "divider" },
+  { "templateUid": "4OfPX6DXS0zU", "templateName": "알림장A_내지", "templateKind": "content" },
+  { "templateUid": "1aHHt1g7uHjw", "templateName": "알림장A_내지_월시작", "templateKind": "content" },
+  { "templateUid": "2DnDyL20yo5Y", "templateName": "알림장A_발행면", "templateKind": "publish" },
+  { "templateUid": "3tQ8WjQZOgId", "templateName": "알림장A_빈내지", "templateKind": "content" }
+]

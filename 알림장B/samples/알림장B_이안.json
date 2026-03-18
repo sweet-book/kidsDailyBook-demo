@@ -1,0 +1,944 @@
+{
+  "title": "(알림장B) 이안이의 성장 이야기",
+  "bookTitleLabel": "이안이의 성장 이야기 1",
+  "cover": {
+    "childName": "이안이",
+    "schoolName": "스위트어린이집",
+    "volumeLabel": "#1",
+    "periodText": "2025년 5월 ~ 2025년 8월",
+    "coverPhoto": "https://www.sweetbook.com/api_sweetbook/images/kids/069.jpg"
+  },
+  "publish": {
+    "photo": "https://www.sweetbook.com/api_sweetbook/images/kids/061.jpg",
+    "title": "이안이의 성장 이야기 #1",
+    "publishDate": "2026년 3월 6일",
+    "author": "김수진",
+    "hashtags": "#포토북은 #역시 #스위트북",
+    "publisher": "(주)스위트북"
+  },
+  "entries": [
+    {
+      "type": "ganji",
+      "year": 2025,
+      "month": 5
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지_월시작",
+      "break_before": "page",
+      "day_data": {
+        "date": "5월 2일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "1시간 30분",
+        "teacherComment": "이안이 부모님 안녕하세요~ 가정의 달 5월입니다! 오전 간식으로 과일과 우유를 먹은 이안이는 어버이날을 맞아 카네이션 만들기 활동에 참여했어요. 빨간 주름종이를 한 장 한 장 펼치며 \"이거 꽃잎이야\" 하고 설명해주었고, 완성된 카네이션에 '사랑해요'라고 적힌 카드를 달며 \"엄마 아빠 줄 거야\" 하고 뿌듯한 표정을 보여주었답니다. 자유놀이 시간에는 가족 사진을 보며 이야기 나누기를 했는데, \"우리 아빠는 키가 커\", \"우리 엄마는 예뻐\" 하고 자랑하는 이안이가 무척 사랑스러웠어요. 실외놀이 시간에는 놀이터에서 모래놀이를 하며 케이크를 만들고 \"부모님 생일 케이크야\" 하고 알려주었답니다. 점심은 완두콩밥, 아욱된장국, 불고기, 감자조림, 배추김치가 나왔고, 불고기를 좋아해 밥과 함께 잘 먹었답니다."
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 5일",
+        "weather": "맑음",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 5월의 따뜻한 햇살 아래 즐거운 하루를 보냈습니다. 오전 간식으로 고구마와 우유를 먹은 이안이는 자유놀이 시간에 자연관찰 활동을 했어요. 텃밭에 나가 지난달 심은 상추가 자란 것을 확인하고 \"와 진짜 컸다!\" 하며 놀라는 표정이었답니다. 물 뿌리개로 물도 주고, 잎을 만져보며 \"부드러워\" 하고 촉감을 표현해주었어요. 이후 교실에서 관찰일지에 상추 그림을 그리며 성장 과정을 기록해보기도 했답니다. 실외놀이 시간에는 비눗방울 놀이를 즐겼는데, 하늘로 올라가는 비눗방울을 쫓아다니며 \"잡았다!\" 하고 터뜨리는 것을 반복하며 즐거워했네요. 점심은 흰쌀밥, 순두부찌개, 생선구이, 도라지무침, 깍두기가 나왔어요. 이안이는 밥과 생선을 중심으로 잘 먹었답니다.",
+        "parentComment": "선생님 안녕하세요! 이안이가 텃밭 상추를 집에서도 키우고 싶다며 화분을 사달라고 해요~ 자연에 관심이 부쩍 늘었네요!",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/069.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 6일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 가족에 대해 이야기 나누는 시간을 가져보았습니다. 오전 간식으로 바나나와 우유를 먹은 이안이는 가족 사진을 보며 \"이건 우리 집이야\" 하고 가족 구성원을 하나하나 소개해주었어요. 이후 가족 그림을 그리며 \"아빠는 여기, 엄마는 여기\" 하고 배치하는 모습이 꼼꼼했답니다. 실외놀이 시간에는 릴레이 달리기를 하며 친구들과 함께 팀워크를 발휘했어요. \"우리 팀 이겼다!\" 하며 뛰어다니는 모습에서 활력이 넘쳤답니다. 점심은 보리밥, 소고기미역국, 치킨너겟, 오이무침, 깍두기가 나왔고, 치킨너겟을 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/129.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/130.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/131.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 7일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "40분",
+        "teacherComment": "이안이 부모님 안녕하세요~ 어린이날이 다가오는 주간이라 특별 활동을 진행했습니다! 오전 간식으로 핫케이크를 먹은 이안이는 자유놀이 시간에 '내가 좋아하는 것' 그리기를 했어요. 도화지에 자동차, 공룡, 아이스크림을 그리며 \"이게 제일 좋아!\" 하고 알려주었답니다. 이후 어린이날 왕관도 만들어보았는데, 반짝이 스티커를 붙이며 \"나 왕이다!\" 하고 씩씩하게 말하는 모습이 귀여웠어요. 친구들과 왕관을 쓰고 퍼레이드도 하며 교실을 한 바퀴 돌았답니다. 점심은 잡곡밥, 미역국, 함박스테이크, 감자샐러드, 배추김치가 나왔고, 함박스테이크를 좋아해 한 조각 더 달라고 했답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/154.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/155.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 9일",
+        "weather": "맑음",
+        "meal": "많이",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 5월의 따뜻한 햇살 아래 즐거운 하루를 보냈습니다. 오전 간식으로 고구마와 우유를 먹은 이안이는 자유놀이 시간에 자연관찰 활동을 했어요. 텃밭에 나가 지난달 심은 상추가 자란 것을 확인하고 \"와 진짜 컸다!\" 하며 놀라는 표정이었답니다. 물 뿌리개로 물도 주고, 잎을 만져보며 \"부드러워\" 하고 촉감을 표현해주었어요. 이후 교실에서 관찰일지에 상추 그림을 그리며 성장 과정을 기록해보기도 했답니다. 실외놀이 시간에는 비눗방울 놀이를 즐겼는데, 하늘로 올라가는 비눗방울을 쫓아다니며 \"잡았다!\" 하고 터뜨리는 것을 반복하며 즐거워했네요. 점심은 흰쌀밥, 순두부찌개, 생선구이, 도라지무침, 깍두기가 나왔어요. 이안이는 밥과 생선을 중심으로 잘 먹었답니다.",
+        "parentComment": "선생님 감사합니다~ 이안이가 만들어온 카네이션이 너무 예뻐요! 냉장고에 잘 붙여놨답니다^^ 정성이 가득하네요~",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/123.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/124.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/125.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/126.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/127.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 13일",
+        "weather": "비",
+        "meal": "많이",
+        "nap": "1시간",
+        "parentComment": "선생님 감사합니다~ 이안이가 만들어온 카네이션이 너무 예뻐요! 냉장고에 잘 붙여놨답니다^^ 정성이 가득하네요~"
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 19일",
+        "weather": "비",
+        "meal": "많이",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 어린이날이 다가오는 주간이라 특별 활동을 진행했습니다! 오전 간식으로 핫케이크를 먹은 이안이는 자유놀이 시간에 '내가 좋아하는 것' 그리기를 했어요. 도화지에 자동차, 공룡, 아이스크림을 그리며 \"이게 제일 좋아!\" 하고 알려주었답니다. 이후 어린이날 왕관도 만들어보았는데, 반짝이 스티커를 붙이며 \"나 왕이다!\" 하고 씩씩하게 말하는 모습이 귀여웠어요. 친구들과 왕관을 쓰고 퍼레이드도 하며 교실을 한 바퀴 돌았답니다. 점심은 잡곡밥, 미역국, 함박스테이크, 감자샐러드, 배추김치가 나왔고, 함박스테이크를 좋아해 한 조각 더 달라고 했답니다.",
+        "parentComment": "선생님 감사합니다~ 이안이가 만들어온 카네이션이 너무 예뻐요! 냉장고에 잘 붙여놨답니다^^ 정성이 가득하네요~",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/169.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/170.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/171.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 21일",
+        "weather": "흐림",
+        "meal": "많이",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 가족에 대해 이야기 나누는 시간을 가져보았습니다. 오전 간식으로 바나나와 우유를 먹은 이안이는 가족 사진을 보며 \"이건 우리 집이야\" 하고 가족 구성원을 하나하나 소개해주었어요. 이후 가족 그림을 그리며 \"아빠는 여기, 엄마는 여기\" 하고 배치하는 모습이 꼼꼼했답니다. 실외놀이 시간에는 릴레이 달리기를 하며 친구들과 함께 팀워크를 발휘했어요. \"우리 팀 이겼다!\" 하며 뛰어다니는 모습에서 활력이 넘쳤답니다. 점심은 보리밥, 소고기미역국, 치킨너겟, 오이무침, 깍두기가 나왔고, 치킨너겟을 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/019.jpeg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/020.jpeg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 22일",
+        "weather": "비",
+        "meal": "적당",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 어린이날이 다가오는 주간이라 특별 활동을 진행했습니다! 오전 간식으로 핫케이크를 먹은 이안이는 자유놀이 시간에 '내가 좋아하는 것' 그리기를 했어요. 도화지에 자동차, 공룡, 아이스크림을 그리며 \"이게 제일 좋아!\" 하고 알려주었답니다. 이후 어린이날 왕관도 만들어보았는데, 반짝이 스티커를 붙이며 \"나 왕이다!\" 하고 씩씩하게 말하는 모습이 귀여웠어요. 친구들과 왕관을 쓰고 퍼레이드도 하며 교실을 한 바퀴 돌았답니다. 점심은 잡곡밥, 미역국, 함박스테이크, 감자샐러드, 배추김치가 나왔고, 함박스테이크를 좋아해 한 조각 더 달라고 했답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/057.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/058.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 27일",
+        "weather": "흐림",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 가정의 달 5월입니다! 오전 간식으로 과일과 우유를 먹은 이안이는 어버이날을 맞아 카네이션 만들기 활동에 참여했어요. 빨간 주름종이를 한 장 한 장 펼치며 \"이거 꽃잎이야\" 하고 설명해주었고, 완성된 카네이션에 '사랑해요'라고 적힌 카드를 달며 \"엄마 아빠 줄 거야\" 하고 뿌듯한 표정을 보여주었답니다. 자유놀이 시간에는 가족 사진을 보며 이야기 나누기를 했는데, \"우리 아빠는 키가 커\", \"우리 엄마는 예뻐\" 하고 자랑하는 이안이가 무척 사랑스러웠어요. 실외놀이 시간에는 놀이터에서 모래놀이를 하며 케이크를 만들고 \"부모님 생일 케이크야\" 하고 알려주었답니다. 점심은 완두콩밥, 아욱된장국, 불고기, 감자조림, 배추김치가 나왔고, 불고기를 좋아해 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/017.jpeg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/018.jpeg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 5,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "5월 30일",
+        "weather": "맑음",
+        "meal": "많이",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 5월의 따뜻한 햇살 아래 즐거운 하루를 보냈습니다. 오전 간식으로 고구마와 우유를 먹은 이안이는 자유놀이 시간에 자연관찰 활동을 했어요. 텃밭에 나가 지난달 심은 상추가 자란 것을 확인하고 \"와 진짜 컸다!\" 하며 놀라는 표정이었답니다. 물 뿌리개로 물도 주고, 잎을 만져보며 \"부드러워\" 하고 촉감을 표현해주었어요. 이후 교실에서 관찰일지에 상추 그림을 그리며 성장 과정을 기록해보기도 했답니다. 실외놀이 시간에는 비눗방울 놀이를 즐겼는데, 하늘로 올라가는 비눗방울을 쫓아다니며 \"잡았다!\" 하고 터뜨리는 것을 반복하며 즐거워했네요. 점심은 흰쌀밥, 순두부찌개, 생선구이, 도라지무침, 깍두기가 나왔어요. 이안이는 밥과 생선을 중심으로 잘 먹었답니다.",
+        "parentComment": "선생님 감사합니다~ 이안이가 만들어온 카네이션이 너무 예뻐요! 냉장고에 잘 붙여놨답니다^^ 정성이 가득하네요~",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/189.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/190.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/191.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/192.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/193.jpg"
+        ]
+      }
+    },
+    {
+      "type": "ganji",
+      "year": 2025,
+      "month": 6
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지_월시작",
+      "break_before": "page",
+      "day_data": {
+        "date": "6월 2일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 여름 과일 관찰 시간을 가져보았어요. 오전 간식으로 참외와 우유를 먹으며 \"참외 껍질이 노란색이야\" 하고 관찰하는 이안이였답니다. 자유놀이 시간에는 수박, 참외, 복숭아 등 여름 과일을 만져보고 냄새를 맡아보며 오감 탐색을 진행했어요. 수박을 두드리며 \"통통 소리가 나!\" 하고 표현해주었고, 수박을 잘라 단면을 관찰하며 씨의 위치에 대해 이야기도 나누어보았답니다. 점심은 흑미밥, 미역국, 두부조림, 콩나물무침, 배추김치가 나왔고, 두부를 밥 위에 올려 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/204.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/205.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/206.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/207.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/208.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/209.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 3일",
+        "weather": "흐림",
+        "meal": "많이",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 무더위가 시작되는 6월입니다. 오전 간식으로 시원한 과일화채를 먹은 이안이는 자유놀이 시간에 물감 놀이를 즐겼어요. 파란색과 노란색 물감을 섞으며 \"초록색이 됐다!\" 하고 놀라는 표정이었답니다. 색의 변화를 관찰하며 여러 색을 섞어보는 탐구적인 모습을 보여주었어요. 이후 물놀이 시간에는 물총으로 과녁을 맞히며 \"맞았다!\" 하고 신나했답니다. 더위에도 불구하고 활기차게 놀이에 참여하는 이안이였어요. 점심은 기장밥, 콩나물국, 오징어볶음, 감자채볶음, 배추김치가 나왔고, 오징어볶음 속 야채를 골라내며 오징어 위주로 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/050.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 4일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 비가 그치고 무지개가 뜬 아름다운 오후입니다. 오전 간식으로 옥수수죽을 먹은 이안이는 자유놀이 시간에 무지개 만들기 활동에 참여했어요. 빨주노초파남보 색 순서를 하나씩 따라 칠하며 \"이게 무지개야\" 하고 뿌듯해했답니다. 또한 물놀이대에서 컵으로 물을 옮기며 개구리 인형을 띄우는 놀이도 했는데, \"개구리가 수영해!\" 하고 즐거워하는 모습이었네요. 비가 그친 뒤 잠깐 실외놀이를 나가 웅덩이에 종이배를 띄워보기도 했답니다. 이안이가 \"내 배가 더 빨라!\" 하며 친구와 경주하는 모습이 인상적이었어요. 점심은 차조밥, 된장찌개, 고등어조림, 깻잎장아찌, 배추김치가 나왔고, 밥과 반찬을 골고루 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/171.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/172.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/173.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/174.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/175.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 10일",
+        "weather": "비",
+        "meal": "적당",
+        "nap": "2시간",
+        "parentComment": "선생님~ 오늘 이안이가 우산을 직접 들고 가겠다며 씩씩하게 출발했어요 ㅎㅎ 비 오는 날 활동이 재미있었나 봐요!"
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 11일",
+        "weather": "흐림",
+        "meal": "많이",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 여름 과일 관찰 시간을 가져보았어요. 오전 간식으로 참외와 우유를 먹으며 \"참외 껍질이 노란색이야\" 하고 관찰하는 이안이였답니다. 자유놀이 시간에는 수박, 참외, 복숭아 등 여름 과일을 만져보고 냄새를 맡아보며 오감 탐색을 진행했어요. 수박을 두드리며 \"통통 소리가 나!\" 하고 표현해주었고, 수박을 잘라 단면을 관찰하며 씨의 위치에 대해 이야기도 나누어보았답니다. 점심은 흑미밥, 미역국, 두부조림, 콩나물무침, 배추김치가 나왔고, 두부를 밥 위에 올려 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/089.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/090.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/091.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/092.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 12일",
+        "weather": "비",
+        "meal": "많이",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 비가 그치고 무지개가 뜬 아름다운 오후입니다. 오전 간식으로 옥수수죽을 먹은 이안이는 자유놀이 시간에 무지개 만들기 활동에 참여했어요. 빨주노초파남보 색 순서를 하나씩 따라 칠하며 \"이게 무지개야\" 하고 뿌듯해했답니다. 또한 물놀이대에서 컵으로 물을 옮기며 개구리 인형을 띄우는 놀이도 했는데, \"개구리가 수영해!\" 하고 즐거워하는 모습이었네요. 비가 그친 뒤 잠깐 실외놀이를 나가 웅덩이에 종이배를 띄워보기도 했답니다. 이안이가 \"내 배가 더 빨라!\" 하며 친구와 경주하는 모습이 인상적이었어요. 점심은 차조밥, 된장찌개, 고등어조림, 깻잎장아찌, 배추김치가 나왔고, 밥과 반찬을 골고루 잘 먹었답니다."
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 13일",
+        "weather": "비",
+        "meal": "적당",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 장마가 시작되었지만 이안이는 오늘도 활기차게 하루를 보냈습니다! 오전 간식으로 수박과 우유를 먹으며 \"수박 달다!\" 하고 맛있게 먹어주었어요. 자유놀이 시간에는 비 오는 날을 주제로 우산 꾸미기를 진행했는데, 물감을 톡톡 찍어 빗방울을 표현하며 \"비가 이렇게 떨어져\" 하고 설명해주었답니다. 완성된 우산을 들고 교실을 돌아다니며 \"비가 와도 괜찮아\" 하고 친구들에게 씌워주는 다정한 모습도 보여주었네요. 실내 대체활동 시간에는 강당에서 에어 매트 위를 뛰며 신나게 놀았답니다. 점심은 보리밥, 오이냉국, 돈육볶음, 애호박전, 깍두기가 나왔어요. 이안이는 애호박전을 좋아해 추가로 받아 먹었답니다."
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 20일",
+        "weather": "비",
+        "meal": "적당",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 장마가 시작되었지만 이안이는 오늘도 활기차게 하루를 보냈습니다! 오전 간식으로 수박과 우유를 먹으며 \"수박 달다!\" 하고 맛있게 먹어주었어요. 자유놀이 시간에는 비 오는 날을 주제로 우산 꾸미기를 진행했는데, 물감을 톡톡 찍어 빗방울을 표현하며 \"비가 이렇게 떨어져\" 하고 설명해주었답니다. 완성된 우산을 들고 교실을 돌아다니며 \"비가 와도 괜찮아\" 하고 친구들에게 씌워주는 다정한 모습도 보여주었네요. 실내 대체활동 시간에는 강당에서 에어 매트 위를 뛰며 신나게 놀았답니다. 점심은 보리밥, 오이냉국, 돈육볶음, 애호박전, 깍두기가 나왔어요. 이안이는 애호박전을 좋아해 추가로 받아 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/016.jpeg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/017.jpeg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 25일",
+        "weather": "비",
+        "meal": "적당",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 비가 그치고 무지개가 뜬 아름다운 오후입니다. 오전 간식으로 옥수수죽을 먹은 이안이는 자유놀이 시간에 무지개 만들기 활동에 참여했어요. 빨주노초파남보 색 순서를 하나씩 따라 칠하며 \"이게 무지개야\" 하고 뿌듯해했답니다. 또한 물놀이대에서 컵으로 물을 옮기며 개구리 인형을 띄우는 놀이도 했는데, \"개구리가 수영해!\" 하고 즐거워하는 모습이었네요. 비가 그친 뒤 잠깐 실외놀이를 나가 웅덩이에 종이배를 띄워보기도 했답니다. 이안이가 \"내 배가 더 빨라!\" 하며 친구와 경주하는 모습이 인상적이었어요. 점심은 차조밥, 된장찌개, 고등어조림, 깻잎장아찌, 배추김치가 나왔고, 밥과 반찬을 골고루 잘 먹었답니다.",
+        "parentComment": "선생님~ 이안이 물놀이 수건 깨끗한 걸로 다시 넣어뒀어요! 여분 옷도 하나 더 챙겨뒀으니 확인 부탁드려요~",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/006.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/007.jpeg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 26일",
+        "weather": "비",
+        "meal": "적당",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 장마가 시작되었지만 이안이는 오늘도 활기차게 하루를 보냈습니다! 오전 간식으로 수박과 우유를 먹으며 \"수박 달다!\" 하고 맛있게 먹어주었어요. 자유놀이 시간에는 비 오는 날을 주제로 우산 꾸미기를 진행했는데, 물감을 톡톡 찍어 빗방울을 표현하며 \"비가 이렇게 떨어져\" 하고 설명해주었답니다. 완성된 우산을 들고 교실을 돌아다니며 \"비가 와도 괜찮아\" 하고 친구들에게 씌워주는 다정한 모습도 보여주었네요. 실내 대체활동 시간에는 강당에서 에어 매트 위를 뛰며 신나게 놀았답니다. 점심은 보리밥, 오이냉국, 돈육볶음, 애호박전, 깍두기가 나왔어요. 이안이는 애호박전을 좋아해 추가로 받아 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/031.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/032.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/033.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/034.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/035.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/036.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 27일",
+        "weather": "비",
+        "meal": "많이",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 무더위가 시작되는 6월입니다. 오전 간식으로 시원한 과일화채를 먹은 이안이는 자유놀이 시간에 물감 놀이를 즐겼어요. 파란색과 노란색 물감을 섞으며 \"초록색이 됐다!\" 하고 놀라는 표정이었답니다. 색의 변화를 관찰하며 여러 색을 섞어보는 탐구적인 모습을 보여주었어요. 이후 물놀이 시간에는 물총으로 과녁을 맞히며 \"맞았다!\" 하고 신나했답니다. 더위에도 불구하고 활기차게 놀이에 참여하는 이안이였어요. 점심은 기장밥, 콩나물국, 오징어볶음, 감자채볶음, 배추김치가 나왔고, 오징어볶음 속 야채를 골라내며 오징어 위주로 먹었답니다.",
+        "parentComment": "선생님 안녕하세요! 이안이가 집에서 물감 섞기를 하고 싶다며 물감 세트를 꺼내왔어요~ 파랑이랑 노랑 섞으면 초록이라고 자랑하네요 ㅎㅎ",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/075.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/076.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 6,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "6월 30일",
+        "weather": "맑음",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 여름 과일 관찰 시간을 가져보았어요. 오전 간식으로 참외와 우유를 먹으며 \"참외 껍질이 노란색이야\" 하고 관찰하는 이안이였답니다. 자유놀이 시간에는 수박, 참외, 복숭아 등 여름 과일을 만져보고 냄새를 맡아보며 오감 탐색을 진행했어요. 수박을 두드리며 \"통통 소리가 나!\" 하고 표현해주었고, 수박을 잘라 단면을 관찰하며 씨의 위치에 대해 이야기도 나누어보았답니다. 점심은 흑미밥, 미역국, 두부조림, 콩나물무침, 배추김치가 나왔고, 두부를 밥 위에 올려 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/114.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/115.jpg"
+        ]
+      }
+    },
+    {
+      "type": "ganji",
+      "year": 2025,
+      "month": 7
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지_월시작",
+      "break_before": "page",
+      "day_data": {
+        "date": "7월 2일",
+        "weather": "맑음",
+        "meal": "많이",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 무더운 날씨지만 실내에서 시원하게 보낸 하루입니다. 오전 간식으로 아이스크림과 과일을 먹은 이안이는 \"아이스크림이 녹아!\" 하며 빠르게 먹는 모습이 귀여웠어요. 자유놀이 시간에는 부채 만들기를 진행했는데, 도화지에 좋아하는 그림을 그린 뒤 부채를 접어 완성했답니다. 완성된 부채로 친구들을 부쳐주며 \"시원하지?\" 하고 웃는 이안이가 무척 다정했어요. 실내 체육 시간에는 림보 놀이를 하며 몸을 낮추고 지나가는 모습이 재미있었답니다. 점심은 흑미밥, 미역국, 돈까스, 양상추샐러드, 깍두기가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/208.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 4일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 무더운 날씨지만 실내에서 시원하게 보낸 하루입니다. 오전 간식으로 아이스크림과 과일을 먹은 이안이는 \"아이스크림이 녹아!\" 하며 빠르게 먹는 모습이 귀여웠어요. 자유놀이 시간에는 부채 만들기를 진행했는데, 도화지에 좋아하는 그림을 그린 뒤 부채를 접어 완성했답니다. 완성된 부채로 친구들을 부쳐주며 \"시원하지?\" 하고 웃는 이안이가 무척 다정했어요. 실내 체육 시간에는 림보 놀이를 하며 몸을 낮추고 지나가는 모습이 재미있었답니다. 점심은 흑미밥, 미역국, 돈까스, 양상추샐러드, 깍두기가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/089.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/090.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 9일",
+        "weather": "흐림",
+        "meal": "적당",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 무더운 날씨지만 실내에서 시원하게 보낸 하루입니다. 오전 간식으로 아이스크림과 과일을 먹은 이안이는 \"아이스크림이 녹아!\" 하며 빠르게 먹는 모습이 귀여웠어요. 자유놀이 시간에는 부채 만들기를 진행했는데, 도화지에 좋아하는 그림을 그린 뒤 부채를 접어 완성했답니다. 완성된 부채로 친구들을 부쳐주며 \"시원하지?\" 하고 웃는 이안이가 무척 다정했어요. 실내 체육 시간에는 림보 놀이를 하며 몸을 낮추고 지나가는 모습이 재미있었답니다. 점심은 흑미밥, 미역국, 돈까스, 양상추샐러드, 깍두기가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/080.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/081.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/082.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/083.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 10일",
+        "weather": "맑음",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 여름 곤충 관찰 시간을 가져보았습니다! 오전 간식으로 옥수수와 우유를 먹은 이안이는 실외놀이 시간에 매미 소리를 듣고 \"매미가 운다!\" 하며 나무를 올려다보았어요. 매미 허물을 발견하자 \"이게 뭐야?\" 하고 신기해하더니, 선생님이 설명해주자 \"매미가 옷을 벗었어?\" 하며 재미있게 이해해주었답니다. 교실로 돌아와 매미 그림을 그리며 \"날개가 이렇게 생겼어\" 하고 관찰한 것을 표현하는 모습이었네요. 점심은 잡곡밥, 소고기미역국, 닭갈비, 콩나물무침, 배추김치가 나왔고, 닭갈비를 맛있게 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/132.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/133.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/134.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 15일",
+        "weather": "비",
+        "meal": "많이",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 본격적인 여름이 시작되었습니다! 오전 간식으로 시원한 수박주스를 마신 이안이는 자유놀이 시간에 바닷속 세상 꾸미기에 참여했어요. 파란 셀로판지를 바닥에 깔고 물고기 모형을 올려놓으며 \"이건 니모야!\" 하고 설명해주었답니다. 조개껍데기를 만져보며 \"이건 진짜 조개야?\" 하고 궁금해하는 모습도 있었네요. 오후에는 물놀이 시간이 있었는데, 물을 첨벙첨벙 치며 \"시원해!\" 하고 즐거워하는 모습이었어요. 물감을 풀에 넣어 색깔 물놀이도 해보았답니다. 점심은 냉콩국수, 감자고로케, 오이지무침, 배추김치가 나왔어요. 이안이는 콩국수를 두 그릇 먹을 정도로 맛있게 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/087.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/088.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 16일",
+        "weather": "흐림",
+        "meal": "조금",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 돌고래반 친구들과 함께 시원한 물놀이를 즐겼습니다! 오전 간식으로 토마토와 우유를 먹은 이안이는 물놀이 준비를 하며 \"오늘 물놀이야?\" 하고 기대에 가득 찬 표정이었어요. 물놀이장에서 물총으로 친구에게 물을 뿌리며 \"나 맞히지 마!\" 하고 깔깔 웃더니, 물에 뜨는 장난감을 건져내는 놀이도 열심히 참여했답니다. 물놀이 후 몸을 닦고 옷을 갈아입는 과정도 혼자서 해보려는 자립적인 모습을 보여주었어요. 점심은 비빔밥, 달걀국, 멸치볶음, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 비벼 한 그릇 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/005.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 21일",
+        "weather": "비",
+        "meal": "적당",
+        "nap": "2시간",
+        "parentComment": "선생님~ 이안이가 매미 허물을 집에 가져오고 싶다고 했는데 혹시 있으면 하나만 챙겨주실 수 있을까요? ㅎㅎ"
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 24일",
+        "weather": "맑음",
+        "meal": "적당",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 돌고래반 친구들과 함께 시원한 물놀이를 즐겼습니다! 오전 간식으로 토마토와 우유를 먹은 이안이는 물놀이 준비를 하며 \"오늘 물놀이야?\" 하고 기대에 가득 찬 표정이었어요. 물놀이장에서 물총으로 친구에게 물을 뿌리며 \"나 맞히지 마!\" 하고 깔깔 웃더니, 물에 뜨는 장난감을 건져내는 놀이도 열심히 참여했답니다. 물놀이 후 몸을 닦고 옷을 갈아입는 과정도 혼자서 해보려는 자립적인 모습을 보여주었어요. 점심은 비빔밥, 달걀국, 멸치볶음, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 비벼 한 그릇 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/159.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/160.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 25일",
+        "weather": "흐림",
+        "meal": "조금",
+        "nap": "2시간",
+        "parentComment": "선생님~ 이안이가 매미 허물을 집에 가져오고 싶다고 했는데 혹시 있으면 하나만 챙겨주실 수 있을까요? ㅎㅎ"
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 28일",
+        "weather": "맑음",
+        "meal": "많이",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 여름 곤충 관찰 시간을 가져보았습니다! 오전 간식으로 옥수수와 우유를 먹은 이안이는 실외놀이 시간에 매미 소리를 듣고 \"매미가 운다!\" 하며 나무를 올려다보았어요. 매미 허물을 발견하자 \"이게 뭐야?\" 하고 신기해하더니, 선생님이 설명해주자 \"매미가 옷을 벗었어?\" 하며 재미있게 이해해주었답니다. 교실로 돌아와 매미 그림을 그리며 \"날개가 이렇게 생겼어\" 하고 관찰한 것을 표현하는 모습이었네요. 점심은 잡곡밥, 소고기미역국, 닭갈비, 콩나물무침, 배추김치가 나왔고, 닭갈비를 맛있게 먹었답니다.",
+        "parentComment": "선생님 감사합니다! 이안이가 만든 부채를 할머니께 선물한다며 자랑하고 있어요~ 정말 예쁘게 만들었더라고요^^",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/092.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/093.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 29일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 무더운 날씨지만 실내에서 시원하게 보낸 하루입니다. 오전 간식으로 아이스크림과 과일을 먹은 이안이는 \"아이스크림이 녹아!\" 하며 빠르게 먹는 모습이 귀여웠어요. 자유놀이 시간에는 부채 만들기를 진행했는데, 도화지에 좋아하는 그림을 그린 뒤 부채를 접어 완성했답니다. 완성된 부채로 친구들을 부쳐주며 \"시원하지?\" 하고 웃는 이안이가 무척 다정했어요. 실내 체육 시간에는 림보 놀이를 하며 몸을 낮추고 지나가는 모습이 재미있었답니다. 점심은 흑미밥, 미역국, 돈까스, 양상추샐러드, 깍두기가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
+        "parentComment": "선생님 감사합니다! 이안이가 만든 부채를 할머니께 선물한다며 자랑하고 있어요~ 정말 예쁘게 만들었더라고요^^",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/175.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/176.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/177.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/178.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/179.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 30일",
+        "weather": "비",
+        "meal": "많이",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 돌고래반 친구들과 함께 시원한 물놀이를 즐겼습니다! 오전 간식으로 토마토와 우유를 먹은 이안이는 물놀이 준비를 하며 \"오늘 물놀이야?\" 하고 기대에 가득 찬 표정이었어요. 물놀이장에서 물총으로 친구에게 물을 뿌리며 \"나 맞히지 마!\" 하고 깔깔 웃더니, 물에 뜨는 장난감을 건져내는 놀이도 열심히 참여했답니다. 물놀이 후 몸을 닦고 옷을 갈아입는 과정도 혼자서 해보려는 자립적인 모습을 보여주었어요. 점심은 비빔밥, 달걀국, 멸치볶음, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 비벼 한 그릇 잘 먹었답니다.",
+        "parentComment": "선생님~ 이안이가 매미 허물을 집에 가져오고 싶다고 했는데 혹시 있으면 하나만 챙겨주실 수 있을까요? ㅎㅎ",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/036.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/037.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/038.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 7,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "7월 31일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 돌고래반 친구들과 함께 시원한 물놀이를 즐겼습니다! 오전 간식으로 토마토와 우유를 먹은 이안이는 물놀이 준비를 하며 \"오늘 물놀이야?\" 하고 기대에 가득 찬 표정이었어요. 물놀이장에서 물총으로 친구에게 물을 뿌리며 \"나 맞히지 마!\" 하고 깔깔 웃더니, 물에 뜨는 장난감을 건져내는 놀이도 열심히 참여했답니다. 물놀이 후 몸을 닦고 옷을 갈아입는 과정도 혼자서 해보려는 자립적인 모습을 보여주었어요. 점심은 비빔밥, 달걀국, 멸치볶음, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 비벼 한 그릇 잘 먹었답니다.",
+        "parentComment": "선생님 감사합니다! 이안이가 만든 부채를 할머니께 선물한다며 자랑하고 있어요~ 정말 예쁘게 만들었더라고요^^",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/143.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/144.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/145.jpg"
+        ]
+      }
+    },
+    {
+      "type": "ganji",
+      "year": 2025,
+      "month": 8
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지_월시작",
+      "break_before": "page",
+      "day_data": {
+        "date": "8월 1일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 8월의 뜨거운 여름이 한창입니다! 오전 간식으로 시원한 냉면이 나왔는데, 이안이는 면을 호로록 먹으며 \"맛있다!\" 하고 두 그릇을 먹었답니다. 자유놀이 시간에는 물총 놀이를 진행했어요. 과녁판에 물총을 쏘며 \"맞혔다!\" 하고 환호하는 모습이 에너지 넘쳤답니다. 친구와 번갈아가며 쏘는 규칙을 지키며 놀이하는 사회성 있는 모습도 보여주었네요. 물풍선도 만들어보았는데, 터지지 않게 조심조심 들고 다니며 \"이거 터지면 안 돼\" 하고 소중하게 다루는 모습이었어요. 점심은 보리밥, 냉이된장국, 제육볶음, 오이무침, 깍두기가 나왔고, 밥과 제육을 비벼 맛있게 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/111.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/112.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/113.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 4일",
+        "weather": "흐림",
+        "meal": "많이",
+        "nap": "1시간",
+        "parentComment": "선생님 안녕하세요! 이안이가 모래성 사진 보여주면서 \"내가 만들었어!\" 하고 자랑해요~ 항상 좋은 활동 감사드립니다^^"
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 5일",
+        "weather": "맑음",
+        "meal": "조금",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 얼음 미술놀이를 진행했답니다. 오전 간식으로 플레인요거트와 과일을 먹은 이안이는 자유놀이 시간에 색깔 얼음으로 그림을 그려보았어요. 얼음이 도화지 위에서 녹으며 색이 퍼지는 것을 보고 \"우와 녹고 있어!\" 하며 신기해했답니다. 빨간색과 파란색 얼음을 동시에 굴리며 \"보라색이 됐다!\" 하고 색의 혼합도 발견했어요. 시원한 얼음의 촉감을 즐기며 여름의 더위를 잊은 듯했답니다. 점심은 흰쌀밥, 돈육김치찌개, 생선까스, 무나물, 배추김치가 나왔고, 생선까스를 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/160.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/161.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 8일",
+        "weather": "흐림",
+        "meal": "많이",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 8월의 뜨거운 여름이 한창입니다! 오전 간식으로 시원한 냉면이 나왔는데, 이안이는 면을 호로록 먹으며 \"맛있다!\" 하고 두 그릇을 먹었답니다. 자유놀이 시간에는 물총 놀이를 진행했어요. 과녁판에 물총을 쏘며 \"맞혔다!\" 하고 환호하는 모습이 에너지 넘쳤답니다. 친구와 번갈아가며 쏘는 규칙을 지키며 놀이하는 사회성 있는 모습도 보여주었네요. 물풍선도 만들어보았는데, 터지지 않게 조심조심 들고 다니며 \"이거 터지면 안 돼\" 하고 소중하게 다루는 모습이었어요. 점심은 보리밥, 냉이된장국, 제육볶음, 오이무침, 깍두기가 나왔고, 밥과 제육을 비벼 맛있게 먹었답니다.",
+        "parentComment": "선생님 안녕하세요! 이안이가 모래성 사진 보여주면서 \"내가 만들었어!\" 하고 자랑해요~ 항상 좋은 활동 감사드립니다^^",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/132.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/133.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/134.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 12일",
+        "weather": "비",
+        "meal": "많이",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 얼음 미술놀이를 진행했답니다. 오전 간식으로 플레인요거트와 과일을 먹은 이안이는 자유놀이 시간에 색깔 얼음으로 그림을 그려보았어요. 얼음이 도화지 위에서 녹으며 색이 퍼지는 것을 보고 \"우와 녹고 있어!\" 하며 신기해했답니다. 빨간색과 파란색 얼음을 동시에 굴리며 \"보라색이 됐다!\" 하고 색의 혼합도 발견했어요. 시원한 얼음의 촉감을 즐기며 여름의 더위를 잊은 듯했답니다. 점심은 흰쌀밥, 돈육김치찌개, 생선까스, 무나물, 배추김치가 나왔고, 생선까스를 밥과 함께 잘 먹었답니다."
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 15일",
+        "weather": "맑음",
+        "meal": "적당",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 모래놀이를 주제로 즐거운 시간을 보냈습니다. 오전 간식으로 고구마무스를 먹은 이안이는 실외놀이 시간에 모래놀이터에서 성을 쌓아보았어요. 양동이에 모래를 꾹꾹 담아 뒤집으며 \"성이 완성!\" 하고 기뻐하더니, 나뭇가지로 깃발을 꽂으며 \"여기 우리 집이야\" 하고 역할놀이로 이어갔답니다. 친구와 함께 터널도 파보며 \"길이 뚫렸다!\" 하고 환호하는 모습이었네요. 자유놀이 시간에는 수박 부채 만들기를 했는데, 초록색과 빨간색을 칠하며 \"수박 씨도 넣어야지\" 하고 꼼꼼하게 완성해주었답니다. 점심은 차조밥, 팽이버섯국, 닭고기조림, 미역줄기볶음, 배추김치가 나왔고, 골고루 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/102.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/103.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 18일",
+        "weather": "비",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 모래놀이를 주제로 즐거운 시간을 보냈습니다. 오전 간식으로 고구마무스를 먹은 이안이는 실외놀이 시간에 모래놀이터에서 성을 쌓아보았어요. 양동이에 모래를 꾹꾹 담아 뒤집으며 \"성이 완성!\" 하고 기뻐하더니, 나뭇가지로 깃발을 꽂으며 \"여기 우리 집이야\" 하고 역할놀이로 이어갔답니다. 친구와 함께 터널도 파보며 \"길이 뚫렸다!\" 하고 환호하는 모습이었네요. 자유놀이 시간에는 수박 부채 만들기를 했는데, 초록색과 빨간색을 칠하며 \"수박 씨도 넣어야지\" 하고 꼼꼼하게 완성해주었답니다. 점심은 차조밥, 팽이버섯국, 닭고기조림, 미역줄기볶음, 배추김치가 나왔고, 골고루 잘 먹었답니다."
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 19일",
+        "weather": "비",
+        "meal": "많이",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 얼음 미술놀이를 진행했답니다. 오전 간식으로 플레인요거트와 과일을 먹은 이안이는 자유놀이 시간에 색깔 얼음으로 그림을 그려보았어요. 얼음이 도화지 위에서 녹으며 색이 퍼지는 것을 보고 \"우와 녹고 있어!\" 하며 신기해했답니다. 빨간색과 파란색 얼음을 동시에 굴리며 \"보라색이 됐다!\" 하고 색의 혼합도 발견했어요. 시원한 얼음의 촉감을 즐기며 여름의 더위를 잊은 듯했답니다. 점심은 흰쌀밥, 돈육김치찌개, 생선까스, 무나물, 배추김치가 나왔고, 생선까스를 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/088.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/089.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/090.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/091.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 21일",
+        "weather": "흐림",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 여름의 끝자락에 접어들고 있습니다. 오전 간식으로 찐 옥수수와 우유를 먹은 이안이는 자유놀이 시간에 곤충 관찰 놀이에 참여했어요. 돋보기로 교실에 있는 곤충 모형들을 살펴보며 \"이건 무당벌레! 이건 나비!\" 하고 이름을 맞히는 모습이었답니다. 특히 장수풍뎅이를 보며 \"이거 힘이 세?\" 하고 궁금해하더니 관련 그림책을 스스로 가져와 읽어달라고 하는 적극적인 모습을 보여주었어요. 점심은 기장밥, 콩비지찌개, 고등어구이, 숙주나물, 배추김치가 나왔고, 밥과 고등어를 위주로 잘 먹었답니다.",
+        "parentComment": "선생님~ 이안이가 장수풍뎅이를 너무 좋아해서 그림책을 사줬어요. 어린이집에서 곤충 관찰 활동이 인상 깊었나 봐요!",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/049.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/050.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 22일",
+        "weather": "흐림",
+        "meal": "조금",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 여름의 끝자락에 접어들고 있습니다. 오전 간식으로 찐 옥수수와 우유를 먹은 이안이는 자유놀이 시간에 곤충 관찰 놀이에 참여했어요. 돋보기로 교실에 있는 곤충 모형들을 살펴보며 \"이건 무당벌레! 이건 나비!\" 하고 이름을 맞히는 모습이었답니다. 특히 장수풍뎅이를 보며 \"이거 힘이 세?\" 하고 궁금해하더니 관련 그림책을 스스로 가져와 읽어달라고 하는 적극적인 모습을 보여주었어요. 점심은 기장밥, 콩비지찌개, 고등어구이, 숙주나물, 배추김치가 나왔고, 밥과 고등어를 위주로 잘 먹었답니다.",
+        "parentComment": "선생님~ 이안이가 장수풍뎅이를 너무 좋아해서 그림책을 사줬어요. 어린이집에서 곤충 관찰 활동이 인상 깊었나 봐요!",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/003.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 25일",
+        "weather": "맑음",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 8월의 뜨거운 여름이 한창입니다! 오전 간식으로 시원한 냉면이 나왔는데, 이안이는 면을 호로록 먹으며 \"맛있다!\" 하고 두 그릇을 먹었답니다. 자유놀이 시간에는 물총 놀이를 진행했어요. 과녁판에 물총을 쏘며 \"맞혔다!\" 하고 환호하는 모습이 에너지 넘쳤답니다. 친구와 번갈아가며 쏘는 규칙을 지키며 놀이하는 사회성 있는 모습도 보여주었네요. 물풍선도 만들어보았는데, 터지지 않게 조심조심 들고 다니며 \"이거 터지면 안 돼\" 하고 소중하게 다루는 모습이었어요. 점심은 보리밥, 냉이된장국, 제육볶음, 오이무침, 깍두기가 나왔고, 밥과 제육을 비벼 맛있게 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/069.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/070.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/071.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 26일",
+        "weather": "흐림",
+        "meal": "적당",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요~ 여름의 끝자락에 접어들고 있습니다. 오전 간식으로 찐 옥수수와 우유를 먹은 이안이는 자유놀이 시간에 곤충 관찰 놀이에 참여했어요. 돋보기로 교실에 있는 곤충 모형들을 살펴보며 \"이건 무당벌레! 이건 나비!\" 하고 이름을 맞히는 모습이었답니다. 특히 장수풍뎅이를 보며 \"이거 힘이 세?\" 하고 궁금해하더니 관련 그림책을 스스로 가져와 읽어달라고 하는 적극적인 모습을 보여주었어요. 점심은 기장밥, 콩비지찌개, 고등어구이, 숙주나물, 배추김치가 나왔고, 밥과 고등어를 위주로 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/113.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/114.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/115.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 27일",
+        "weather": "흐림",
+        "meal": "적당",
+        "nap": "1시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 얼음 미술놀이를 진행했답니다. 오전 간식으로 플레인요거트와 과일을 먹은 이안이는 자유놀이 시간에 색깔 얼음으로 그림을 그려보았어요. 얼음이 도화지 위에서 녹으며 색이 퍼지는 것을 보고 \"우와 녹고 있어!\" 하며 신기해했답니다. 빨간색과 파란색 얼음을 동시에 굴리며 \"보라색이 됐다!\" 하고 색의 혼합도 발견했어요. 시원한 얼음의 촉감을 즐기며 여름의 더위를 잊은 듯했답니다. 점심은 흰쌀밥, 돈육김치찌개, 생선까스, 무나물, 배추김치가 나왔고, 생선까스를 밥과 함께 잘 먹었답니다.",
+        "photos": [
+          "https://www.sweetbook.com/api_sweetbook/images/kids/061.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/062.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/063.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/064.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/065.jpg",
+          "https://www.sweetbook.com/api_sweetbook/images/kids/066.jpg"
+        ]
+      }
+    },
+    {
+      "type": "naeji",
+      "year": 2025,
+      "month": 8,
+      "tpl_key": "내지",
+      "break_before": "none",
+      "day_data": {
+        "date": "8월 29일",
+        "weather": "맑음",
+        "meal": "조금",
+        "nap": "2시간",
+        "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 모래놀이를 주제로 즐거운 시간을 보냈습니다. 오전 간식으로 고구마무스를 먹은 이안이는 실외놀이 시간에 모래놀이터에서 성을 쌓아보았어요. 양동이에 모래를 꾹꾹 담아 뒤집으며 \"성이 완성!\" 하고 기뻐하더니, 나뭇가지로 깃발을 꽂으며 \"여기 우리 집이야\" 하고 역할놀이로 이어갔답니다. 친구와 함께 터널도 파보며 \"길이 뚫렸다!\" 하고 환호하는 모습이었네요. 자유놀이 시간에는 수박 부채 만들기를 했는데, 초록색과 빨간색을 칠하며 \"수박 씨도 넣어야지\" 하고 꼼꼼하게 완성해주었답니다. 점심은 차조밥, 팽이버섯국, 닭고기조림, 미역줄기볶음, 배추김치가 나왔고, 골고루 잘 먹었답니다."
+      }
+    }
+  ]
+}
