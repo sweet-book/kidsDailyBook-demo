@@ -1,10 +1,34 @@
 [
-  { "key": "b1", "serverPath": "/api_platform_image/public/image260305013628061.PNG" },
-  { "key": "b2", "serverPath": "/api_platform_image/public/image260305013628359.PNG" },
-  { "key": "b3", "serverPath": "/api_platform_image/public/image260305013628644.PNG" },
-  { "key": "b4", "serverPath": "/api_platform_image/public/image260305013628922.PNG" },
-  { "key": "w1", "serverPath": "/api_platform_image/public/image260305013629498.PNG" },
-  { "key": "w2", "serverPath": "/api_platform_image/public/image260305013629772.PNG" },
-  { "key": "w3", "serverPath": "/api_platform_image/public/image260305013630076.PNG" },
-  { "key": "w4", "serverPath": "/api_platform_image/public/image260305013630389.PNG" }
+  {
+    "key": "b1",
+    "serverPath": "/api_platform_image/public/image260319024311616.PNG"
+  },
+  {
+    "key": "b2",
+    "serverPath": "/api_platform_image/public/image260319024311711.PNG"
+  },
+  {
+    "key": "b3",
+    "serverPath": "/api_platform_image/public/image260319024311819.PNG"
+  },
+  {
+    "key": "b4",
+    "serverPath": "/api_platform_image/public/image260319024311924.PNG"
+  },
+  {
+    "key": "w1",
+    "serverPath": "/api_platform_image/public/image260319024312240.PNG"
+  },
+  {
+    "key": "w2",
+    "serverPath": "/api_platform_image/public/image260319024312504.PNG"
+  },
+  {
+    "key": "w3",
+    "serverPath": "/api_platform_image/public/image260319024312736.PNG"
+  },
+  {
+    "key": "w4",
+    "serverPath": "/api_platform_image/public/image260319024312943.PNG"
+  }
 ]
