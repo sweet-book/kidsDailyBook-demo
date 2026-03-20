@@ -7,10 +7,10 @@
     "className": "돌고래반",
     "volumeLabel": "#1",
     "periodText": "2025년 9월 - 2025년 12월",
-    "coverPhoto": "https://www.sweetbook.com/api_sweetbook/images/kids/175.jpg"
+    "coverPhoto": "https://api.sweetbook.com/images/kids/175.jpg"
   },
   "publish": {
-    "photo": "https://www.sweetbook.com/api_sweetbook/images/kids/061.jpg",
+    "photo": "https://api.sweetbook.com/images/kids/061.jpg",
     "title": "이안이의 어린이집 이야기 #1",
     "publishDate": "2026년 3월 6일",
     "author": "김수진",
@@ -35,8 +35,8 @@
         "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 가을 하늘 아래 즐거운 산책을 다녀왔습니다. 오전 간식으로 찐 고구마와 우유를 먹은 이안이는 산책 준비를 하며 \"가을 하늘이 파란색이야!\" 하고 표현해주었어요. 코스모스 꽃밭을 지나며 꽃잎을 살짝 만져보고 \"부드러워\" 하더니, 바람에 날리는 꽃잎을 잡으려고 뛰어다니기도 했답니다. 교실로 돌아와 가을 하늘을 그리며 구름과 잠자리도 그려넣는 세심한 모습을 보여주었어요. 점심은 기장밥, 순두부찌개, 돈육볶음, 무나물, 배추김치가 나왔고, 밥과 반찬을 잘 먹었답니다.",
         "parentComment": "선생님~ 이안이가 가을 낙엽을 주머니에 가득 넣어왔어요 ㅋㅋ 예쁜 색깔 잎만 골라서 모은다며 선생님께도 드린대요!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/207.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/208.jpg"
+          "https://api.sweetbook.com/images/kids/207.jpg",
+          "https://api.sweetbook.com/images/kids/208.jpg"
         ]
       }
     },
@@ -52,10 +52,10 @@
         "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 가을 하늘 아래 즐거운 산책을 다녀왔습니다. 오전 간식으로 찐 고구마와 우유를 먹은 이안이는 산책 준비를 하며 \"가을 하늘이 파란색이야!\" 하고 표현해주었어요. 코스모스 꽃밭을 지나며 꽃잎을 살짝 만져보고 \"부드러워\" 하더니, 바람에 날리는 꽃잎을 잡으려고 뛰어다니기도 했답니다. 교실로 돌아와 가을 하늘을 그리며 구름과 잠자리도 그려넣는 세심한 모습을 보여주었어요. 점심은 기장밥, 순두부찌개, 돈육볶음, 무나물, 배추김치가 나왔고, 밥과 반찬을 잘 먹었답니다.",
         "parentComment": "선생님 안녕하세요~ 추석 잘 보내셨나요? 이안이가 할머니네에서 송편을 만들었다며 자랑하고 있어요 ㅎㅎ 어린이집에서 배워서 잘 만들더라고요!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/174.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/175.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/176.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/177.jpg"
+          "https://api.sweetbook.com/images/kids/174.jpg",
+          "https://api.sweetbook.com/images/kids/175.jpg",
+          "https://api.sweetbook.com/images/kids/176.jpg",
+          "https://api.sweetbook.com/images/kids/177.jpg"
         ]
       }
     },
@@ -71,8 +71,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 가을이 깊어가는 9월의 마지막 주입니다. 오전 간식으로 밤과 대추를 먹으며 \"이거 밤이야? 맛있다!\" 하고 좋아하는 이안이였어요. 자유놀이 시간에는 잠자리 관찰 활동을 진행했답니다. 실외놀이 시간에 잠자리가 날아다니는 것을 보며 \"잡아보고 싶다!\" 하고 이야기하더니, 잠자리 모형을 가까이에서 관찰하며 \"날개가 반짝반짝해\" 하고 표현해주었어요. 그물을 들고 잠자리를 잡으러 다니는 모습도 귀여웠답니다. 점심은 완두콩밥, 미역국, 함박스테이크, 감자조림, 배추김치가 나왔고, 함박스테이크를 좋아해 추가로 받아 먹었답니다.",
         "parentComment": "선생님 안녕하세요~ 추석 잘 보내셨나요? 이안이가 할머니네에서 송편을 만들었다며 자랑하고 있어요 ㅎㅎ 어린이집에서 배워서 잘 만들더라고요!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/125.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/126.jpg"
+          "https://api.sweetbook.com/images/kids/125.jpg",
+          "https://api.sweetbook.com/images/kids/126.jpg"
         ]
       }
     },
@@ -87,8 +87,8 @@
         "weatherKey": "w3",
         "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 가을 하늘 아래 즐거운 산책을 다녀왔습니다. 오전 간식으로 찐 고구마와 우유를 먹은 이안이는 산책 준비를 하며 \"가을 하늘이 파란색이야!\" 하고 표현해주었어요. 코스모스 꽃밭을 지나며 꽃잎을 살짝 만져보고 \"부드러워\" 하더니, 바람에 날리는 꽃잎을 잡으려고 뛰어다니기도 했답니다. 교실로 돌아와 가을 하늘을 그리며 구름과 잠자리도 그려넣는 세심한 모습을 보여주었어요. 점심은 기장밥, 순두부찌개, 돈육볶음, 무나물, 배추김치가 나왔고, 밥과 반찬을 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/021.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/022.jpeg"
+          "https://api.sweetbook.com/images/kids/021.jpeg",
+          "https://api.sweetbook.com/images/kids/022.jpeg"
         ]
       }
     },
@@ -116,7 +116,7 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 가을이 깊어가는 9월의 마지막 주입니다. 오전 간식으로 밤과 대추를 먹으며 \"이거 밤이야? 맛있다!\" 하고 좋아하는 이안이였어요. 자유놀이 시간에는 잠자리 관찰 활동을 진행했답니다. 실외놀이 시간에 잠자리가 날아다니는 것을 보며 \"잡아보고 싶다!\" 하고 이야기하더니, 잠자리 모형을 가까이에서 관찰하며 \"날개가 반짝반짝해\" 하고 표현해주었어요. 그물을 들고 잠자리를 잡으러 다니는 모습도 귀여웠답니다. 점심은 완두콩밥, 미역국, 함박스테이크, 감자조림, 배추김치가 나왔고, 함박스테이크를 좋아해 추가로 받아 먹었답니다.",
         "parentComment": "선생님 감사합니다! 이안이가 만든 낙엽 작품이 너무 예뻐요~ 거실에 잘 걸어놨답니다^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/029.jpg"
+          "https://api.sweetbook.com/images/kids/029.jpg"
         ]
       }
     },
@@ -132,8 +132,8 @@
         "teacherComment": "이안이 부모님 안녕하세요 :) 추석 연휴 잘 보내셨나요? 이안이는 등원하자마자 \"할머니네 갔다 왔어!\" 하며 연휴 이야기를 신나게 들려주었어요. 오전 간식으로 사과와 배를 먹으며 \"이거 할머니네서도 먹었어\" 하고 연휴를 떠올리는 모습이었답니다. 자유놀이 시간에는 가을 자연물 콜라주를 진행했어요. 산책 시간에 주워온 낙엽, 도토리, 나뭇가지를 활용해 가을 풍경을 만들었는데, 이안이는 나뭇잎을 하나씩 붙이며 \"이건 나무야\" 하고 설명해주었답니다. 완성된 작품을 보며 \"가을이다!\" 하고 뿌듯한 표정을 지어주었네요. 점심은 흑미밥, 소고기무국, 돈육김치찜, 시금치나물, 깍두기가 나왔고, 밥과 반찬을 골고루 잘 먹었답니다.",
         "parentComment": "선생님 감사합니다! 이안이가 만든 낙엽 작품이 너무 예뻐요~ 거실에 잘 걸어놨답니다^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/140.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/141.jpg"
+          "https://api.sweetbook.com/images/kids/140.jpg",
+          "https://api.sweetbook.com/images/kids/141.jpg"
         ]
       }
     },
@@ -149,9 +149,9 @@
         "teacherComment": "이안이 부모님 안녕하세요 :) 추석 연휴 잘 보내셨나요? 이안이는 등원하자마자 \"할머니네 갔다 왔어!\" 하며 연휴 이야기를 신나게 들려주었어요. 오전 간식으로 사과와 배를 먹으며 \"이거 할머니네서도 먹었어\" 하고 연휴를 떠올리는 모습이었답니다. 자유놀이 시간에는 가을 자연물 콜라주를 진행했어요. 산책 시간에 주워온 낙엽, 도토리, 나뭇가지를 활용해 가을 풍경을 만들었는데, 이안이는 나뭇잎을 하나씩 붙이며 \"이건 나무야\" 하고 설명해주었답니다. 완성된 작품을 보며 \"가을이다!\" 하고 뿌듯한 표정을 지어주었네요. 점심은 흑미밥, 소고기무국, 돈육김치찜, 시금치나물, 깍두기가 나왔고, 밥과 반찬을 골고루 잘 먹었답니다.",
         "parentComment": "선생님 안녕하세요~ 추석 잘 보내셨나요? 이안이가 할머니네에서 송편을 만들었다며 자랑하고 있어요 ㅎㅎ 어린이집에서 배워서 잘 만들더라고요!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/098.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/099.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/100.jpg"
+          "https://api.sweetbook.com/images/kids/098.jpg",
+          "https://api.sweetbook.com/images/kids/099.jpg",
+          "https://api.sweetbook.com/images/kids/100.jpg"
         ]
       }
     },
@@ -178,8 +178,8 @@
         "weatherKey": "w2",
         "teacherComment": "이안이 부모님 안녕하세요 :) 추석 연휴 잘 보내셨나요? 이안이는 등원하자마자 \"할머니네 갔다 왔어!\" 하며 연휴 이야기를 신나게 들려주었어요. 오전 간식으로 사과와 배를 먹으며 \"이거 할머니네서도 먹었어\" 하고 연휴를 떠올리는 모습이었답니다. 자유놀이 시간에는 가을 자연물 콜라주를 진행했어요. 산책 시간에 주워온 낙엽, 도토리, 나뭇가지를 활용해 가을 풍경을 만들었는데, 이안이는 나뭇잎을 하나씩 붙이며 \"이건 나무야\" 하고 설명해주었답니다. 완성된 작품을 보며 \"가을이다!\" 하고 뿌듯한 표정을 지어주었네요. 점심은 흑미밥, 소고기무국, 돈육김치찜, 시금치나물, 깍두기가 나왔고, 밥과 반찬을 골고루 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/135.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/136.jpg"
+          "https://api.sweetbook.com/images/kids/135.jpg",
+          "https://api.sweetbook.com/images/kids/136.jpg"
         ]
       }
     },
@@ -207,8 +207,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 가을이 깊어가는 9월의 마지막 주입니다. 오전 간식으로 밤과 대추를 먹으며 \"이거 밤이야? 맛있다!\" 하고 좋아하는 이안이였어요. 자유놀이 시간에는 잠자리 관찰 활동을 진행했답니다. 실외놀이 시간에 잠자리가 날아다니는 것을 보며 \"잡아보고 싶다!\" 하고 이야기하더니, 잠자리 모형을 가까이에서 관찰하며 \"날개가 반짝반짝해\" 하고 표현해주었어요. 그물을 들고 잠자리를 잡으러 다니는 모습도 귀여웠답니다. 점심은 완두콩밥, 미역국, 함박스테이크, 감자조림, 배추김치가 나왔고, 함박스테이크를 좋아해 추가로 받아 먹었답니다.",
         "parentComment": "선생님 감사합니다! 이안이가 만든 낙엽 작품이 너무 예뻐요~ 거실에 잘 걸어놨답니다^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/182.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/183.jpg"
+          "https://api.sweetbook.com/images/kids/182.jpg",
+          "https://api.sweetbook.com/images/kids/183.jpg"
         ]
       }
     },
@@ -224,8 +224,8 @@
         "teacherComment": "이안이 부모님 안녕하세요 :) 추석 연휴 잘 보내셨나요? 이안이는 등원하자마자 \"할머니네 갔다 왔어!\" 하며 연휴 이야기를 신나게 들려주었어요. 오전 간식으로 사과와 배를 먹으며 \"이거 할머니네서도 먹었어\" 하고 연휴를 떠올리는 모습이었답니다. 자유놀이 시간에는 가을 자연물 콜라주를 진행했어요. 산책 시간에 주워온 낙엽, 도토리, 나뭇가지를 활용해 가을 풍경을 만들었는데, 이안이는 나뭇잎을 하나씩 붙이며 \"이건 나무야\" 하고 설명해주었답니다. 완성된 작품을 보며 \"가을이다!\" 하고 뿌듯한 표정을 지어주었네요. 점심은 흑미밥, 소고기무국, 돈육김치찜, 시금치나물, 깍두기가 나왔고, 밥과 반찬을 골고루 잘 먹었답니다.",
         "parentComment": "선생님 감사합니다! 이안이가 만든 낙엽 작품이 너무 예뻐요~ 거실에 잘 걸어놨답니다^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/071.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/072.jpg"
+          "https://api.sweetbook.com/images/kids/071.jpg",
+          "https://api.sweetbook.com/images/kids/072.jpg"
         ]
       }
     },
@@ -241,8 +241,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 선선한 가을바람이 불어오는 9월입니다! 오전 간식으로 송편과 우유를 먹으며 \"이거 추석에 먹는 거야?\" 하고 물어보는 이안이에게 추석에 대한 이야기를 들려주었답니다. 자유놀이 시간에는 송편 만들기 체험을 진행했어요. 쌀가루 반죽을 조물조물 만지며 \"말랑말랑해\" 하고 촉감을 표현해주었고, 안에 깨 소를 넣고 동그랗게 빚으며 \"엄마꺼는 크게 만들어야지\" 하고 정성껏 빚어주었답니다. 실외놀이 시간에는 코스모스가 핀 길을 산책하며 \"꽃이 바람에 흔들려\" 하고 관찰하는 모습이었네요. 점심은 잡곡밥, 갈비탕, 잡채, 도라지생채, 배추김치가 나왔고, 잡채를 맛있게 먹었답니다.",
         "parentComment": "선생님 감사합니다! 이안이가 만든 낙엽 작품이 너무 예뻐요~ 거실에 잘 걸어놨답니다^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/028.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/029.jpg"
+          "https://api.sweetbook.com/images/kids/028.jpg",
+          "https://api.sweetbook.com/images/kids/029.jpg"
         ]
       }
     },
@@ -257,8 +257,8 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 선선한 가을바람이 불어오는 9월입니다! 오전 간식으로 송편과 우유를 먹으며 \"이거 추석에 먹는 거야?\" 하고 물어보는 이안이에게 추석에 대한 이야기를 들려주었답니다. 자유놀이 시간에는 송편 만들기 체험을 진행했어요. 쌀가루 반죽을 조물조물 만지며 \"말랑말랑해\" 하고 촉감을 표현해주었고, 안에 깨 소를 넣고 동그랗게 빚으며 \"엄마꺼는 크게 만들어야지\" 하고 정성껏 빚어주었답니다. 실외놀이 시간에는 코스모스가 핀 길을 산책하며 \"꽃이 바람에 흔들려\" 하고 관찰하는 모습이었네요. 점심은 잡곡밥, 갈비탕, 잡채, 도라지생채, 배추김치가 나왔고, 잡채를 맛있게 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/096.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/097.jpg"
+          "https://api.sweetbook.com/images/kids/096.jpg",
+          "https://api.sweetbook.com/images/kids/097.jpg"
         ]
       }
     },
@@ -273,11 +273,11 @@
         "weatherKey": "w3",
         "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 가을 하늘 아래 즐거운 산책을 다녀왔습니다. 오전 간식으로 찐 고구마와 우유를 먹은 이안이는 산책 준비를 하며 \"가을 하늘이 파란색이야!\" 하고 표현해주었어요. 코스모스 꽃밭을 지나며 꽃잎을 살짝 만져보고 \"부드러워\" 하더니, 바람에 날리는 꽃잎을 잡으려고 뛰어다니기도 했답니다. 교실로 돌아와 가을 하늘을 그리며 구름과 잠자리도 그려넣는 세심한 모습을 보여주었어요. 점심은 기장밥, 순두부찌개, 돈육볶음, 무나물, 배추김치가 나왔고, 밥과 반찬을 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/015.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/016.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/017.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/018.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/019.jpeg"
+          "https://api.sweetbook.com/images/kids/015.jpeg",
+          "https://api.sweetbook.com/images/kids/016.jpeg",
+          "https://api.sweetbook.com/images/kids/017.jpeg",
+          "https://api.sweetbook.com/images/kids/018.jpeg",
+          "https://api.sweetbook.com/images/kids/019.jpeg"
         ]
       }
     },
@@ -310,10 +310,10 @@
         "weatherKey": "w2",
         "teacherComment": "이안이 부모님 안녕하세요 :) 선선한 가을 날씨에 기분 좋은 하루를 보냈습니다! 오전 간식으로 고구마와 우유를 먹은 이안이는 자유놀이 시간에 밤줍기 체험을 떠올리며 밤껍질 탐색 활동을 진행했어요. \"가시가 따가워!\" 하며 밤 겉껍질을 조심스럽게 만져보더니, 안에 있는 매끈한 밤을 꺼내며 \"이건 반질반질해\" 하고 촉감을 비교하는 모습이었답니다. 교실에서 감도 관찰해보았는데, \"이거 말랑말랑해\" 하며 손으로 눌러보기도 했어요. 실외놀이 시간에는 단풍잎 낙엽을 모아 왕관을 만들어보았답니다. 점심은 흰쌀밥, 아욱국, 소불고기, 무생채, 배추김치가 나왔고, 소불고기를 밥에 비벼 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/190.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/191.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/192.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/193.jpg"
+          "https://api.sweetbook.com/images/kids/190.jpg",
+          "https://api.sweetbook.com/images/kids/191.jpg",
+          "https://api.sweetbook.com/images/kids/192.jpg",
+          "https://api.sweetbook.com/images/kids/193.jpg"
         ]
       }
     },
@@ -340,11 +340,11 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요 :) 선선한 가을 날씨에 기분 좋은 하루를 보냈습니다! 오전 간식으로 고구마와 우유를 먹은 이안이는 자유놀이 시간에 밤줍기 체험을 떠올리며 밤껍질 탐색 활동을 진행했어요. \"가시가 따가워!\" 하며 밤 겉껍질을 조심스럽게 만져보더니, 안에 있는 매끈한 밤을 꺼내며 \"이건 반질반질해\" 하고 촉감을 비교하는 모습이었답니다. 교실에서 감도 관찰해보았는데, \"이거 말랑말랑해\" 하며 손으로 눌러보기도 했어요. 실외놀이 시간에는 단풍잎 낙엽을 모아 왕관을 만들어보았답니다. 점심은 흰쌀밥, 아욱국, 소불고기, 무생채, 배추김치가 나왔고, 소불고기를 밥에 비벼 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/148.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/149.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/150.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/151.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/152.jpg"
+          "https://api.sweetbook.com/images/kids/148.jpg",
+          "https://api.sweetbook.com/images/kids/149.jpg",
+          "https://api.sweetbook.com/images/kids/150.jpg",
+          "https://api.sweetbook.com/images/kids/151.jpg",
+          "https://api.sweetbook.com/images/kids/152.jpg"
         ]
       }
     },
@@ -360,8 +360,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 할로윈을 맞아 재미있는 활동을 진행했어요! 오전 간식으로 호박 쿠키와 우유를 먹으며 \"이거 호박 모양이다!\" 하고 즐거워하는 이안이였답니다. 자유놀이 시간에는 할로윈 가면 만들기를 했는데, \"나는 호랑이 할 거야!\" 하며 주황색으로 가면을 칠하고 줄무늬도 그려 넣었어요. 완성된 가면을 쓰고 \"어흥!\" 하며 친구들을 놀래키는 모습이 귀여웠답니다. 점심은 차조밥, 소고기미역국, 떡갈비, 브로콜리초무침, 배추김치가 나왔고, 떡갈비를 맛있게 먹었답니다.",
         "parentComment": "선생님~ 가을이라 이안이가 밤을 좋아하게 됐어요. 어린이집에서 밤 관찰한 게 재미있었나 봐요! 감사합니다^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/107.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/108.jpg"
+          "https://api.sweetbook.com/images/kids/107.jpg",
+          "https://api.sweetbook.com/images/kids/108.jpg"
         ]
       }
     },
@@ -388,8 +388,8 @@
         "weatherKey": "w3",
         "teacherComment": "이안이 부모님 안녕하세요~ 가을 소풍 다녀온 이야기를 전합니다! 오전 간식으로 바나나와 우유를 먹고 소풍 준비를 마친 이안이는 버스를 타고 고구마 캐기 체험을 다녀왔어요. 밭에 도착해 호미로 흙을 파자 고구마가 나왔는데 \"우와 크다!\" 하며 두 손으로 감싸 들어올리는 모습이었답니다. \"이거 다 먹을 거야!\" 하며 자루 가득 고구마를 담는 적극적인 이안이였네요. 돌아와서 캔 고구마를 친구들과 세어보기도 하며 숫자 놀이로 이어졌답니다. 점심은 잡곡밥, 감자수제비국, 닭볶음탕, 시금치나물, 깍두기가 나왔고, 소풍 후 배고팠는지 밥 한 그릇을 빠르게 비웠답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/113.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/114.jpg"
+          "https://api.sweetbook.com/images/kids/113.jpg",
+          "https://api.sweetbook.com/images/kids/114.jpg"
         ]
       }
     },
@@ -405,12 +405,12 @@
         "teacherComment": "이안이 부모님 안녕하세요 :) 선선한 가을 날씨에 기분 좋은 하루를 보냈습니다! 오전 간식으로 고구마와 우유를 먹은 이안이는 자유놀이 시간에 밤줍기 체험을 떠올리며 밤껍질 탐색 활동을 진행했어요. \"가시가 따가워!\" 하며 밤 겉껍질을 조심스럽게 만져보더니, 안에 있는 매끈한 밤을 꺼내며 \"이건 반질반질해\" 하고 촉감을 비교하는 모습이었답니다. 교실에서 감도 관찰해보았는데, \"이거 말랑말랑해\" 하며 손으로 눌러보기도 했어요. 실외놀이 시간에는 단풍잎 낙엽을 모아 왕관을 만들어보았답니다. 점심은 흰쌀밥, 아욱국, 소불고기, 무생채, 배추김치가 나왔고, 소불고기를 밥에 비벼 잘 먹었답니다.",
         "parentComment": "선생님 안녕하세요! 이안이가 도토리를 가방에 넣어왔더라고요 ㅎㅎ 다람쥐한테 줄 거라면서 소중하게 가지고 다녀요~",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/094.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/095.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/096.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/097.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/098.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/099.jpg"
+          "https://api.sweetbook.com/images/kids/094.jpg",
+          "https://api.sweetbook.com/images/kids/095.jpg",
+          "https://api.sweetbook.com/images/kids/096.jpg",
+          "https://api.sweetbook.com/images/kids/097.jpg",
+          "https://api.sweetbook.com/images/kids/098.jpg",
+          "https://api.sweetbook.com/images/kids/099.jpg"
         ]
       }
     },
@@ -425,11 +425,11 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 10월의 가을 하늘이 정말 높고 맑습니다! 오전 간식으로 단호박죽을 든든히 먹은 이안이는 자유놀이 시간에 낙엽 탐색 활동에 참여했어요. 산책 시간에 주워온 다양한 색의 낙엽을 분류하며 \"이건 빨간색, 이건 노란색, 이건 갈색!\" 하고 색깔별로 나누어주었답니다. 낙엽을 하늘로 날려보며 \"낙엽 비다!\" 하고 즐거워하는 모습이 인상적이었네요. 도토리도 여러 개 주워와 소꿉놀이에 활용하기도 했답니다. 실외놀이 시간에는 공원에서 자유롭게 뛰어놀며 가을 바람을 만끽했어요. 점심은 기장밥, 돈육김치찌개, 고구마조림, 콩나물무침, 깍두기가 나왔고, 고구마조림을 좋아해 추가로 받아 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/199.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/200.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/201.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/202.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/203.jpg"
+          "https://api.sweetbook.com/images/kids/199.jpg",
+          "https://api.sweetbook.com/images/kids/200.jpg",
+          "https://api.sweetbook.com/images/kids/201.jpg",
+          "https://api.sweetbook.com/images/kids/202.jpg",
+          "https://api.sweetbook.com/images/kids/203.jpg"
         ]
       }
     },
@@ -444,10 +444,10 @@
         "weatherKey": "w3",
         "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 할로윈을 맞아 재미있는 활동을 진행했어요! 오전 간식으로 호박 쿠키와 우유를 먹으며 \"이거 호박 모양이다!\" 하고 즐거워하는 이안이였답니다. 자유놀이 시간에는 할로윈 가면 만들기를 했는데, \"나는 호랑이 할 거야!\" 하며 주황색으로 가면을 칠하고 줄무늬도 그려 넣었어요. 완성된 가면을 쓰고 \"어흥!\" 하며 친구들을 놀래키는 모습이 귀여웠답니다. 점심은 차조밥, 소고기미역국, 떡갈비, 브로콜리초무침, 배추김치가 나왔고, 떡갈비를 맛있게 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/007.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/008.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/009.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/010.jpeg"
+          "https://api.sweetbook.com/images/kids/007.jpeg",
+          "https://api.sweetbook.com/images/kids/008.jpeg",
+          "https://api.sweetbook.com/images/kids/009.jpeg",
+          "https://api.sweetbook.com/images/kids/010.jpeg"
         ]
       }
     },
@@ -487,11 +487,11 @@
         "weatherKey": "w2",
         "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 할로윈을 맞아 재미있는 활동을 진행했어요! 오전 간식으로 호박 쿠키와 우유를 먹으며 \"이거 호박 모양이다!\" 하고 즐거워하는 이안이였답니다. 자유놀이 시간에는 할로윈 가면 만들기를 했는데, \"나는 호랑이 할 거야!\" 하며 주황색으로 가면을 칠하고 줄무늬도 그려 넣었어요. 완성된 가면을 쓰고 \"어흥!\" 하며 친구들을 놀래키는 모습이 귀여웠답니다. 점심은 차조밥, 소고기미역국, 떡갈비, 브로콜리초무침, 배추김치가 나왔고, 떡갈비를 맛있게 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/128.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/129.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/130.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/131.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/132.jpg"
+          "https://api.sweetbook.com/images/kids/128.jpg",
+          "https://api.sweetbook.com/images/kids/129.jpg",
+          "https://api.sweetbook.com/images/kids/130.jpg",
+          "https://api.sweetbook.com/images/kids/131.jpg",
+          "https://api.sweetbook.com/images/kids/132.jpg"
         ]
       }
     },
@@ -507,12 +507,12 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 오늘은 할로윈을 맞아 재미있는 활동을 진행했어요! 오전 간식으로 호박 쿠키와 우유를 먹으며 \"이거 호박 모양이다!\" 하고 즐거워하는 이안이였답니다. 자유놀이 시간에는 할로윈 가면 만들기를 했는데, \"나는 호랑이 할 거야!\" 하며 주황색으로 가면을 칠하고 줄무늬도 그려 넣었어요. 완성된 가면을 쓰고 \"어흥!\" 하며 친구들을 놀래키는 모습이 귀여웠답니다. 점심은 차조밥, 소고기미역국, 떡갈비, 브로콜리초무침, 배추김치가 나왔고, 떡갈비를 맛있게 먹었답니다.",
         "parentComment": "선생님~ 이안이가 고구마 캐기 체험이 너무 재미있었다며 주말에도 밭에 가자고 해요 ㅋㅋ 체험학습 잘 다녀와서 감사합니다!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/051.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/052.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/053.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/054.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/055.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/056.jpg"
+          "https://api.sweetbook.com/images/kids/051.jpg",
+          "https://api.sweetbook.com/images/kids/052.jpg",
+          "https://api.sweetbook.com/images/kids/053.jpg",
+          "https://api.sweetbook.com/images/kids/054.jpg",
+          "https://api.sweetbook.com/images/kids/055.jpg",
+          "https://api.sweetbook.com/images/kids/056.jpg"
         ]
       }
     },
@@ -527,7 +527,7 @@
         "weatherKey": "w2",
         "teacherComment": "이안이 부모님 안녕하세요~ 10월의 가을 하늘이 정말 높고 맑습니다! 오전 간식으로 단호박죽을 든든히 먹은 이안이는 자유놀이 시간에 낙엽 탐색 활동에 참여했어요. 산책 시간에 주워온 다양한 색의 낙엽을 분류하며 \"이건 빨간색, 이건 노란색, 이건 갈색!\" 하고 색깔별로 나누어주었답니다. 낙엽을 하늘로 날려보며 \"낙엽 비다!\" 하고 즐거워하는 모습이 인상적이었네요. 도토리도 여러 개 주워와 소꿉놀이에 활용하기도 했답니다. 실외놀이 시간에는 공원에서 자유롭게 뛰어놀며 가을 바람을 만끽했어요. 점심은 기장밥, 돈육김치찌개, 고구마조림, 콩나물무침, 깍두기가 나왔고, 고구마조림을 좋아해 추가로 받아 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/046.jpg"
+          "https://api.sweetbook.com/images/kids/046.jpg"
         ]
       }
     },
@@ -556,7 +556,7 @@
         "teacherComment": "이안이 부모님 안녕하세요 :) 선선한 가을 날씨에 기분 좋은 하루를 보냈습니다! 오전 간식으로 고구마와 우유를 먹은 이안이는 자유놀이 시간에 밤줍기 체험을 떠올리며 밤껍질 탐색 활동을 진행했어요. \"가시가 따가워!\" 하며 밤 겉껍질을 조심스럽게 만져보더니, 안에 있는 매끈한 밤을 꺼내며 \"이건 반질반질해\" 하고 촉감을 비교하는 모습이었답니다. 교실에서 감도 관찰해보았는데, \"이거 말랑말랑해\" 하며 손으로 눌러보기도 했어요. 실외놀이 시간에는 단풍잎 낙엽을 모아 왕관을 만들어보았답니다. 점심은 흰쌀밥, 아욱국, 소불고기, 무생채, 배추김치가 나왔고, 소불고기를 밥에 비벼 잘 먹었답니다.",
         "parentComment": "선생님 안녕하세요! 이안이가 도토리를 가방에 넣어왔더라고요 ㅎㅎ 다람쥐한테 줄 거라면서 소중하게 가지고 다녀요~",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/021.jpeg"
+          "https://api.sweetbook.com/images/kids/021.jpeg"
         ]
       }
     },
@@ -571,8 +571,8 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 10월의 가을 하늘이 정말 높고 맑습니다! 오전 간식으로 단호박죽을 든든히 먹은 이안이는 자유놀이 시간에 낙엽 탐색 활동에 참여했어요. 산책 시간에 주워온 다양한 색의 낙엽을 분류하며 \"이건 빨간색, 이건 노란색, 이건 갈색!\" 하고 색깔별로 나누어주었답니다. 낙엽을 하늘로 날려보며 \"낙엽 비다!\" 하고 즐거워하는 모습이 인상적이었네요. 도토리도 여러 개 주워와 소꿉놀이에 활용하기도 했답니다. 실외놀이 시간에는 공원에서 자유롭게 뛰어놀며 가을 바람을 만끽했어요. 점심은 기장밥, 돈육김치찌개, 고구마조림, 콩나물무침, 깍두기가 나왔고, 고구마조림을 좋아해 추가로 받아 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/070.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/071.jpg"
+          "https://api.sweetbook.com/images/kids/070.jpg",
+          "https://api.sweetbook.com/images/kids/071.jpg"
         ]
       }
     },
@@ -588,8 +588,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 가을 소풍 다녀온 이야기를 전합니다! 오전 간식으로 바나나와 우유를 먹고 소풍 준비를 마친 이안이는 버스를 타고 고구마 캐기 체험을 다녀왔어요. 밭에 도착해 호미로 흙을 파자 고구마가 나왔는데 \"우와 크다!\" 하며 두 손으로 감싸 들어올리는 모습이었답니다. \"이거 다 먹을 거야!\" 하며 자루 가득 고구마를 담는 적극적인 이안이였네요. 돌아와서 캔 고구마를 친구들과 세어보기도 하며 숫자 놀이로 이어졌답니다. 점심은 잡곡밥, 감자수제비국, 닭볶음탕, 시금치나물, 깍두기가 나왔고, 소풍 후 배고팠는지 밥 한 그릇을 빠르게 비웠답니다.",
         "parentComment": "선생님~ 이안이가 고구마 캐기 체험이 너무 재미있었다며 주말에도 밭에 가자고 해요 ㅋㅋ 체험학습 잘 다녀와서 감사합니다!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/208.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/209.jpg"
+          "https://api.sweetbook.com/images/kids/208.jpg",
+          "https://api.sweetbook.com/images/kids/209.jpg"
         ]
       }
     },
@@ -605,8 +605,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 10월의 가을 하늘이 정말 높고 맑습니다! 오전 간식으로 단호박죽을 든든히 먹은 이안이는 자유놀이 시간에 낙엽 탐색 활동에 참여했어요. 산책 시간에 주워온 다양한 색의 낙엽을 분류하며 \"이건 빨간색, 이건 노란색, 이건 갈색!\" 하고 색깔별로 나누어주었답니다. 낙엽을 하늘로 날려보며 \"낙엽 비다!\" 하고 즐거워하는 모습이 인상적이었네요. 도토리도 여러 개 주워와 소꿉놀이에 활용하기도 했답니다. 실외놀이 시간에는 공원에서 자유롭게 뛰어놀며 가을 바람을 만끽했어요. 점심은 기장밥, 돈육김치찌개, 고구마조림, 콩나물무침, 깍두기가 나왔고, 고구마조림을 좋아해 추가로 받아 먹었답니다.",
         "parentComment": "선생님~ 이안이가 고구마 캐기 체험이 너무 재미있었다며 주말에도 밭에 가자고 해요 ㅋㅋ 체험학습 잘 다녀와서 감사합니다!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/133.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/134.jpg"
+          "https://api.sweetbook.com/images/kids/133.jpg",
+          "https://api.sweetbook.com/images/kids/134.jpg"
         ]
       }
     },
@@ -626,8 +626,8 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요 :) 가을의 마지막을 즐기고 있는 이안이입니다. 오전 간식으로 호떡과 우유를 먹으며 \"따뜻해서 좋아\" 하고 표현해주었어요. 자유놀이 시간에는 낙엽 프로타주 활동을 진행했답니다. 낙엽 위에 종이를 올리고 크레파스로 문지르자 잎맥이 나타나는 것을 보며 \"우와 무늬가 나왔다!\" 하고 놀라워했어요. 여러 종류의 낙엽으로 다양한 무늬를 찍어보며 탐구적인 모습을 보여주었답니다. 실외놀이 시간에는 낙엽을 모아 이불처럼 덮어보기도 하며 가을을 온몸으로 느꼈답니다. 점심은 차조밥, 소고기무국, 치킨너겟, 브로콜리초무침, 배추김치가 나왔고, 치킨너겟을 좋아해 밥과 함께 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/049.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/050.jpg"
+          "https://api.sweetbook.com/images/kids/049.jpg",
+          "https://api.sweetbook.com/images/kids/050.jpg"
         ]
       }
     },
@@ -642,9 +642,9 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 11월의 찬 바람이 불어오기 시작했습니다. 오전 간식으로 따뜻한 팥죽을 먹은 이안이는 자유놀이 시간에 김장 준비 놀이를 즐겼어요. 실제 배추와 무를 관찰하며 \"이거 엄청 커!\" 하고 배추를 들어보기도 했답니다. 배추 겉잎을 한 장씩 떼어보며 \"속에 또 있어!\" 하고 신기해하는 모습이었네요. 소금물에 배추를 절이는 시범을 보여주자 \"왜 소금 넣어?\" 하고 궁금해하며 과정을 관심 있게 지켜보았답니다. 실외놀이 시간에는 은행나무 아래서 노란 잎을 모아 부케를 만들어보기도 했어요. 점심은 보리밥, 콩나물국, 제육볶음, 깻잎장아찌, 배추김치가 나왔고, 제육볶음을 밥과 비벼 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/147.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/148.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/149.jpg"
+          "https://api.sweetbook.com/images/kids/147.jpg",
+          "https://api.sweetbook.com/images/kids/148.jpg",
+          "https://api.sweetbook.com/images/kids/149.jpg"
         ]
       }
     },
@@ -659,7 +659,7 @@
         "weatherKey": "w3",
         "teacherComment": "이안이 부모님 안녕하세요~ 11월의 찬 바람이 불어오기 시작했습니다. 오전 간식으로 따뜻한 팥죽을 먹은 이안이는 자유놀이 시간에 김장 준비 놀이를 즐겼어요. 실제 배추와 무를 관찰하며 \"이거 엄청 커!\" 하고 배추를 들어보기도 했답니다. 배추 겉잎을 한 장씩 떼어보며 \"속에 또 있어!\" 하고 신기해하는 모습이었네요. 소금물에 배추를 절이는 시범을 보여주자 \"왜 소금 넣어?\" 하고 궁금해하며 과정을 관심 있게 지켜보았답니다. 실외놀이 시간에는 은행나무 아래서 노란 잎을 모아 부케를 만들어보기도 했어요. 점심은 보리밥, 콩나물국, 제육볶음, 깻잎장아찌, 배추김치가 나왔고, 제육볶음을 밥과 비벼 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/061.jpg"
+          "https://api.sweetbook.com/images/kids/061.jpg"
         ]
       }
     },
@@ -675,8 +675,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 11월의 찬 바람이 불어오기 시작했습니다. 오전 간식으로 따뜻한 팥죽을 먹은 이안이는 자유놀이 시간에 김장 준비 놀이를 즐겼어요. 실제 배추와 무를 관찰하며 \"이거 엄청 커!\" 하고 배추를 들어보기도 했답니다. 배추 겉잎을 한 장씩 떼어보며 \"속에 또 있어!\" 하고 신기해하는 모습이었네요. 소금물에 배추를 절이는 시범을 보여주자 \"왜 소금 넣어?\" 하고 궁금해하며 과정을 관심 있게 지켜보았답니다. 실외놀이 시간에는 은행나무 아래서 노란 잎을 모아 부케를 만들어보기도 했어요. 점심은 보리밥, 콩나물국, 제육볶음, 깻잎장아찌, 배추김치가 나왔고, 제육볶음을 밥과 비벼 잘 먹었답니다.",
         "parentComment": "선생님 감사합니다! 이안이가 만든 도토리 사슴을 책상 위에 올려놓고 매일 보여줘요~ 정말 귀엽게 만들었더라고요^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/185.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/186.jpg"
+          "https://api.sweetbook.com/images/kids/185.jpg",
+          "https://api.sweetbook.com/images/kids/186.jpg"
         ]
       }
     },
@@ -692,7 +692,7 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 11월의 찬 바람이 불어오기 시작했습니다. 오전 간식으로 따뜻한 팥죽을 먹은 이안이는 자유놀이 시간에 김장 준비 놀이를 즐겼어요. 실제 배추와 무를 관찰하며 \"이거 엄청 커!\" 하고 배추를 들어보기도 했답니다. 배추 겉잎을 한 장씩 떼어보며 \"속에 또 있어!\" 하고 신기해하는 모습이었네요. 소금물에 배추를 절이는 시범을 보여주자 \"왜 소금 넣어?\" 하고 궁금해하며 과정을 관심 있게 지켜보았답니다. 실외놀이 시간에는 은행나무 아래서 노란 잎을 모아 부케를 만들어보기도 했어요. 점심은 보리밥, 콩나물국, 제육볶음, 깻잎장아찌, 배추김치가 나왔고, 제육볶음을 밥과 비벼 잘 먹었답니다.",
         "parentComment": "선생님 감사합니다! 이안이가 만든 도토리 사슴을 책상 위에 올려놓고 매일 보여줘요~ 정말 귀엽게 만들었더라고요^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/054.jpg"
+          "https://api.sweetbook.com/images/kids/054.jpg"
         ]
       }
     },
@@ -707,10 +707,10 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 11월의 찬 바람이 불어오기 시작했습니다. 오전 간식으로 따뜻한 팥죽을 먹은 이안이는 자유놀이 시간에 김장 준비 놀이를 즐겼어요. 실제 배추와 무를 관찰하며 \"이거 엄청 커!\" 하고 배추를 들어보기도 했답니다. 배추 겉잎을 한 장씩 떼어보며 \"속에 또 있어!\" 하고 신기해하는 모습이었네요. 소금물에 배추를 절이는 시범을 보여주자 \"왜 소금 넣어?\" 하고 궁금해하며 과정을 관심 있게 지켜보았답니다. 실외놀이 시간에는 은행나무 아래서 노란 잎을 모아 부케를 만들어보기도 했어요. 점심은 보리밥, 콩나물국, 제육볶음, 깻잎장아찌, 배추김치가 나왔고, 제육볶음을 밥과 비벼 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/014.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/015.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/016.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/017.jpeg"
+          "https://api.sweetbook.com/images/kids/014.jpeg",
+          "https://api.sweetbook.com/images/kids/015.jpeg",
+          "https://api.sweetbook.com/images/kids/016.jpeg",
+          "https://api.sweetbook.com/images/kids/017.jpeg"
         ]
       }
     },
@@ -725,8 +725,8 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 돌고래반 친구들과 함께 텃밭에서 무 수확을 해보았답니다. 오전 간식으로 만두와 우유를 먹은 이안이는 텃밭으로 나가 무를 힘차게 뽑아보았어요. \"우와 엄청 길다!\" 하며 뽑힌 무를 들어올리는 모습이 대견했답니다. 흙을 털어내고 무의 모양을 관찰하며 \"다리가 두 개야!\" 하고 재미있는 생김새의 무를 발견하기도 했어요. 교실로 돌아와 무를 씻어보며 촉감도 탐색해보았답니다. 점심은 잡곡밥, 달걀국, 돈까스, 양배추샐러드, 배추김치가 나왔고, 돈까스를 맛있게 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/115.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/116.jpg"
+          "https://api.sweetbook.com/images/kids/115.jpg",
+          "https://api.sweetbook.com/images/kids/116.jpg"
         ]
       }
     },
@@ -742,8 +742,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 겨울이 성큼 다가온 듯한 쌀쌀한 날씨입니다. 오전 간식으로 미숫가루와 과일을 먹은 이안이는 자유놀이 시간에 열매 탐색 활동을 즐겼어요. 솔방울, 도토리, 밤 등 가을 열매를 모아 무게 비교를 해보았는데, \"밤이 제일 무거워!\" 하고 양손에 올려보며 비교하는 모습이었답니다. 열매를 이용해 동물 만들기도 시도했는데, 도토리에 이쑤시개를 꽂아 \"이건 사슴이야\" 하고 만든 작품을 보여주었네요. 점심은 기장밥, 돈육된장찌개, 어묵볶음, 무나물, 깍두기가 나왔고, 어묵볶음을 좋아해 추가로 받아 먹었답니다.",
         "parentComment": "선생님~ 이안이가 낙엽 이불이 따뜻했다며 집에서도 이불 위에 낙엽 올려놓겠다고 해요 ㅎㅎ 가을 놀이가 인상적이었나 봐요!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/161.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/162.jpg"
+          "https://api.sweetbook.com/images/kids/161.jpg",
+          "https://api.sweetbook.com/images/kids/162.jpg"
         ]
       }
     },
@@ -758,8 +758,8 @@
         "weatherKey": "w2",
         "teacherComment": "이안이 부모님 안녕하세요~ 11월의 찬 바람이 불어오기 시작했습니다. 오전 간식으로 따뜻한 팥죽을 먹은 이안이는 자유놀이 시간에 김장 준비 놀이를 즐겼어요. 실제 배추와 무를 관찰하며 \"이거 엄청 커!\" 하고 배추를 들어보기도 했답니다. 배추 겉잎을 한 장씩 떼어보며 \"속에 또 있어!\" 하고 신기해하는 모습이었네요. 소금물에 배추를 절이는 시범을 보여주자 \"왜 소금 넣어?\" 하고 궁금해하며 과정을 관심 있게 지켜보았답니다. 실외놀이 시간에는 은행나무 아래서 노란 잎을 모아 부케를 만들어보기도 했어요. 점심은 보리밥, 콩나물국, 제육볶음, 깻잎장아찌, 배추김치가 나왔고, 제육볶음을 밥과 비벼 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/135.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/136.jpg"
+          "https://api.sweetbook.com/images/kids/135.jpg",
+          "https://api.sweetbook.com/images/kids/136.jpg"
         ]
       }
     },
@@ -786,7 +786,7 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요 :) 가을의 마지막을 즐기고 있는 이안이입니다. 오전 간식으로 호떡과 우유를 먹으며 \"따뜻해서 좋아\" 하고 표현해주었어요. 자유놀이 시간에는 낙엽 프로타주 활동을 진행했답니다. 낙엽 위에 종이를 올리고 크레파스로 문지르자 잎맥이 나타나는 것을 보며 \"우와 무늬가 나왔다!\" 하고 놀라워했어요. 여러 종류의 낙엽으로 다양한 무늬를 찍어보며 탐구적인 모습을 보여주었답니다. 실외놀이 시간에는 낙엽을 모아 이불처럼 덮어보기도 하며 가을을 온몸으로 느꼈답니다. 점심은 차조밥, 소고기무국, 치킨너겟, 브로콜리초무침, 배추김치가 나왔고, 치킨너겟을 좋아해 밥과 함께 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/160.jpg"
+          "https://api.sweetbook.com/images/kids/160.jpg"
         ]
       }
     },
@@ -801,8 +801,8 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 11월의 찬 바람이 불어오기 시작했습니다. 오전 간식으로 따뜻한 팥죽을 먹은 이안이는 자유놀이 시간에 김장 준비 놀이를 즐겼어요. 실제 배추와 무를 관찰하며 \"이거 엄청 커!\" 하고 배추를 들어보기도 했답니다. 배추 겉잎을 한 장씩 떼어보며 \"속에 또 있어!\" 하고 신기해하는 모습이었네요. 소금물에 배추를 절이는 시범을 보여주자 \"왜 소금 넣어?\" 하고 궁금해하며 과정을 관심 있게 지켜보았답니다. 실외놀이 시간에는 은행나무 아래서 노란 잎을 모아 부케를 만들어보기도 했어요. 점심은 보리밥, 콩나물국, 제육볶음, 깻잎장아찌, 배추김치가 나왔고, 제육볶음을 밥과 비벼 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/197.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/198.jpg"
+          "https://api.sweetbook.com/images/kids/197.jpg",
+          "https://api.sweetbook.com/images/kids/198.jpg"
         ]
       }
     },
@@ -817,8 +817,8 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요 :) 오늘은 돌고래반 친구들과 함께 텃밭에서 무 수확을 해보았답니다. 오전 간식으로 만두와 우유를 먹은 이안이는 텃밭으로 나가 무를 힘차게 뽑아보았어요. \"우와 엄청 길다!\" 하며 뽑힌 무를 들어올리는 모습이 대견했답니다. 흙을 털어내고 무의 모양을 관찰하며 \"다리가 두 개야!\" 하고 재미있는 생김새의 무를 발견하기도 했어요. 교실로 돌아와 무를 씻어보며 촉감도 탐색해보았답니다. 점심은 잡곡밥, 달걀국, 돈까스, 양배추샐러드, 배추김치가 나왔고, 돈까스를 맛있게 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/036.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/037.jpg"
+          "https://api.sweetbook.com/images/kids/036.jpg",
+          "https://api.sweetbook.com/images/kids/037.jpg"
         ]
       }
     },
@@ -834,12 +834,12 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 11월의 찬 바람이 불어오기 시작했습니다. 오전 간식으로 따뜻한 팥죽을 먹은 이안이는 자유놀이 시간에 김장 준비 놀이를 즐겼어요. 실제 배추와 무를 관찰하며 \"이거 엄청 커!\" 하고 배추를 들어보기도 했답니다. 배추 겉잎을 한 장씩 떼어보며 \"속에 또 있어!\" 하고 신기해하는 모습이었네요. 소금물에 배추를 절이는 시범을 보여주자 \"왜 소금 넣어?\" 하고 궁금해하며 과정을 관심 있게 지켜보았답니다. 실외놀이 시간에는 은행나무 아래서 노란 잎을 모아 부케를 만들어보기도 했어요. 점심은 보리밥, 콩나물국, 제육볶음, 깻잎장아찌, 배추김치가 나왔고, 제육볶음을 밥과 비벼 잘 먹었답니다.",
         "parentComment": "선생님 감사합니다! 이안이가 만든 도토리 사슴을 책상 위에 올려놓고 매일 보여줘요~ 정말 귀엽게 만들었더라고요^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/007.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/008.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/009.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/010.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/011.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/012.jpeg"
+          "https://api.sweetbook.com/images/kids/007.jpeg",
+          "https://api.sweetbook.com/images/kids/008.jpeg",
+          "https://api.sweetbook.com/images/kids/009.jpeg",
+          "https://api.sweetbook.com/images/kids/010.jpeg",
+          "https://api.sweetbook.com/images/kids/011.jpeg",
+          "https://api.sweetbook.com/images/kids/012.jpeg"
         ]
       }
     },
@@ -859,9 +859,9 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 12월의 설레는 계절이 왔습니다! 오전 간식으로 핫초코와 쿠키를 먹으며 \"산타 아저씨가 이거 좋아해?\" 하고 물어보는 귀여운 이안이였어요. 자유놀이 시간에는 크리스마스 트리 꾸미기를 진행했답니다. 반짝이 구슬과 별 장식을 하나씩 걸며 \"여기에 붙일 거야\" 하고 꼼꼼하게 꾸며주었어요. 완성된 트리를 보며 \"우와 예쁘다!\" 하고 뿌듯한 표정이었답니다. 별 꼭대기 장식을 달 때는 까치발을 들며 \"닿을 것 같은데?\" 하고 열심히 손을 뻗는 모습도 있었네요. 점심은 잡곡밥, 어묵국, 돈까스, 양배추샐러드, 배추김치가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/038.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/039.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/040.jpg"
+          "https://api.sweetbook.com/images/kids/038.jpg",
+          "https://api.sweetbook.com/images/kids/039.jpg",
+          "https://api.sweetbook.com/images/kids/040.jpg"
         ]
       }
     },
@@ -877,8 +877,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 연말을 맞아 돌고래반 송년회를 진행했답니다! 오전 간식으로 떡볶이를 먹으며 \"떡볶이 좋아!\" 하고 기분 좋게 먹어주었어요. 자유놀이 시간에는 한 해 동안의 작품을 돌아보며 \"이거 내가 만든 거야!\" 하고 자랑하는 모습이었답니다. 친구들에게 \"올해 고마웠어!\" 하고 인사하며 선물 교환도 진행했어요. 이안이는 친구에게 받은 선물을 뜯으며 \"우와 이거 좋아!\" 하고 환호했답니다. 점심은 비빔밥, 소고기무국, 계란말이, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 먹었답니다.",
         "parentComment": "선생님~ 연말이라 가족 모임이 있어서 이안이를 일찍 데리러 갈 수도 있을 것 같아요. 시간 맞추기 어려우면 말씀해주세요!",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/095.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/096.jpg"
+          "https://api.sweetbook.com/images/kids/095.jpg",
+          "https://api.sweetbook.com/images/kids/096.jpg"
         ]
       }
     },
@@ -906,8 +906,8 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 12월의 설레는 계절이 왔습니다! 오전 간식으로 핫초코와 쿠키를 먹으며 \"산타 아저씨가 이거 좋아해?\" 하고 물어보는 귀여운 이안이였어요. 자유놀이 시간에는 크리스마스 트리 꾸미기를 진행했답니다. 반짝이 구슬과 별 장식을 하나씩 걸며 \"여기에 붙일 거야\" 하고 꼼꼼하게 꾸며주었어요. 완성된 트리를 보며 \"우와 예쁘다!\" 하고 뿌듯한 표정이었답니다. 별 꼭대기 장식을 달 때는 까치발을 들며 \"닿을 것 같은데?\" 하고 열심히 손을 뻗는 모습도 있었네요. 점심은 잡곡밥, 어묵국, 돈까스, 양배추샐러드, 배추김치가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
         "parentComment": "선생님 안녕하세요! 이안이가 트리 장식을 집에서도 하고 싶다며 매일 장식을 만들어요~ 크리스마스가 기대되나 봐요^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/051.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/052.jpg"
+          "https://api.sweetbook.com/images/kids/051.jpg",
+          "https://api.sweetbook.com/images/kids/052.jpg"
         ]
       }
     },
@@ -922,7 +922,7 @@
         "weatherKey": "w4",
         "teacherComment": "이안이 부모님 안녕하세요~ 12월의 설레는 계절이 왔습니다! 오전 간식으로 핫초코와 쿠키를 먹으며 \"산타 아저씨가 이거 좋아해?\" 하고 물어보는 귀여운 이안이였어요. 자유놀이 시간에는 크리스마스 트리 꾸미기를 진행했답니다. 반짝이 구슬과 별 장식을 하나씩 걸며 \"여기에 붙일 거야\" 하고 꼼꼼하게 꾸며주었어요. 완성된 트리를 보며 \"우와 예쁘다!\" 하고 뿌듯한 표정이었답니다. 별 꼭대기 장식을 달 때는 까치발을 들며 \"닿을 것 같은데?\" 하고 열심히 손을 뻗는 모습도 있었네요. 점심은 잡곡밥, 어묵국, 돈까스, 양배추샐러드, 배추김치가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/161.jpg"
+          "https://api.sweetbook.com/images/kids/161.jpg"
         ]
       }
     },
@@ -937,10 +937,10 @@
         "weatherKey": "w2",
         "teacherComment": "이안이 부모님 안녕하세요~ 12월의 설레는 계절이 왔습니다! 오전 간식으로 핫초코와 쿠키를 먹으며 \"산타 아저씨가 이거 좋아해?\" 하고 물어보는 귀여운 이안이였어요. 자유놀이 시간에는 크리스마스 트리 꾸미기를 진행했답니다. 반짝이 구슬과 별 장식을 하나씩 걸며 \"여기에 붙일 거야\" 하고 꼼꼼하게 꾸며주었어요. 완성된 트리를 보며 \"우와 예쁘다!\" 하고 뿌듯한 표정이었답니다. 별 꼭대기 장식을 달 때는 까치발을 들며 \"닿을 것 같은데?\" 하고 열심히 손을 뻗는 모습도 있었네요. 점심은 잡곡밥, 어묵국, 돈까스, 양배추샐러드, 배추김치가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/055.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/056.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/057.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/058.jpg"
+          "https://api.sweetbook.com/images/kids/055.jpg",
+          "https://api.sweetbook.com/images/kids/056.jpg",
+          "https://api.sweetbook.com/images/kids/057.jpg",
+          "https://api.sweetbook.com/images/kids/058.jpg"
         ]
       }
     },
@@ -967,10 +967,10 @@
         "weatherKey": "w4",
         "teacherComment": "이안이 부모님 안녕하세요~ 연말 분위기가 물씬 풍기는 12월입니다. 오전 간식으로 식빵과 잼, 우유를 먹은 이안이는 자유놀이 시간에 산타에게 편지 쓰기 활동을 진행했어요. \"산타 아저씨한테 뭐 달라고 할 거야?\" 하고 물어보자 \"자동차!\" 하며 도화지에 자동차 그림을 그려 편지를 완성했답니다. 이후 크리스마스 쿠키 만들기도 진행했는데, 별 모양 틀로 반죽을 찍으며 \"이거 별이야\" 하고 하나씩 만들어보는 모습이었네요. 완성된 쿠키에 색소로 꾸미며 선물 준비를 하는 이안이였답니다. 점심은 완두콩밥, 순두부찌개, 생선구이, 감자조림, 배추김치가 나왔고, 밥과 반찬을 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/012.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/013.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/014.jpeg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/015.jpeg"
+          "https://api.sweetbook.com/images/kids/012.jpeg",
+          "https://api.sweetbook.com/images/kids/013.jpeg",
+          "https://api.sweetbook.com/images/kids/014.jpeg",
+          "https://api.sweetbook.com/images/kids/015.jpeg"
         ]
       }
     },
@@ -985,7 +985,7 @@
         "weatherKey": "w4",
         "teacherComment": "이안이 부모님 안녕하세요 :) 첫눈이 내린 신나는 날이었습니다! 이안이는 등원하자마자 \"밖에 눈 와!\" 하며 창밖을 가리키며 들뜬 모습이었어요. 오전 간식으로 따뜻한 감자수프를 먹고 나서 잠깐 실외로 나가 눈을 만져보았답니다. \"차갑다!\" 하면서도 눈을 꾹꾹 뭉쳐보며 \"눈사람 만들 거야\" 하고 즐거워했어요. 교실로 돌아와 눈사람 만들기 미술활동을 진행했는데, 솜으로 몸을 만들고 단추 눈, 당근 코를 붙이며 나만의 눈사람을 완성했답니다. 점심은 흑미밥, 미역국, 소고기장조림, 콩나물무침, 깍두기가 나왔고, 골고루 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/042.jpg"
+          "https://api.sweetbook.com/images/kids/042.jpg"
         ]
       }
     },
@@ -1000,10 +1000,10 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 연말을 맞아 돌고래반 송년회를 진행했답니다! 오전 간식으로 떡볶이를 먹으며 \"떡볶이 좋아!\" 하고 기분 좋게 먹어주었어요. 자유놀이 시간에는 한 해 동안의 작품을 돌아보며 \"이거 내가 만든 거야!\" 하고 자랑하는 모습이었답니다. 친구들에게 \"올해 고마웠어!\" 하고 인사하며 선물 교환도 진행했어요. 이안이는 친구에게 받은 선물을 뜯으며 \"우와 이거 좋아!\" 하고 환호했답니다. 점심은 비빔밥, 소고기무국, 계란말이, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/072.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/073.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/074.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/075.jpg"
+          "https://api.sweetbook.com/images/kids/072.jpg",
+          "https://api.sweetbook.com/images/kids/073.jpg",
+          "https://api.sweetbook.com/images/kids/074.jpg",
+          "https://api.sweetbook.com/images/kids/075.jpg"
         ]
       }
     },
@@ -1018,9 +1018,9 @@
         "weatherKey": "w4",
         "teacherComment": "이안이 부모님 안녕하세요 :) 첫눈이 내린 신나는 날이었습니다! 이안이는 등원하자마자 \"밖에 눈 와!\" 하며 창밖을 가리키며 들뜬 모습이었어요. 오전 간식으로 따뜻한 감자수프를 먹고 나서 잠깐 실외로 나가 눈을 만져보았답니다. \"차갑다!\" 하면서도 눈을 꾹꾹 뭉쳐보며 \"눈사람 만들 거야\" 하고 즐거워했어요. 교실로 돌아와 눈사람 만들기 미술활동을 진행했는데, 솜으로 몸을 만들고 단추 눈, 당근 코를 붙이며 나만의 눈사람을 완성했답니다. 점심은 흑미밥, 미역국, 소고기장조림, 콩나물무침, 깍두기가 나왔고, 골고루 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/171.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/172.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/173.jpg"
+          "https://api.sweetbook.com/images/kids/171.jpg",
+          "https://api.sweetbook.com/images/kids/172.jpg",
+          "https://api.sweetbook.com/images/kids/173.jpg"
         ]
       }
     },
@@ -1035,12 +1035,12 @@
         "weatherKey": "w2",
         "teacherComment": "이안이 부모님 안녕하세요~ 연말 분위기가 물씬 풍기는 12월입니다. 오전 간식으로 식빵과 잼, 우유를 먹은 이안이는 자유놀이 시간에 산타에게 편지 쓰기 활동을 진행했어요. \"산타 아저씨한테 뭐 달라고 할 거야?\" 하고 물어보자 \"자동차!\" 하며 도화지에 자동차 그림을 그려 편지를 완성했답니다. 이후 크리스마스 쿠키 만들기도 진행했는데, 별 모양 틀로 반죽을 찍으며 \"이거 별이야\" 하고 하나씩 만들어보는 모습이었네요. 완성된 쿠키에 색소로 꾸미며 선물 준비를 하는 이안이였답니다. 점심은 완두콩밥, 순두부찌개, 생선구이, 감자조림, 배추김치가 나왔고, 밥과 반찬을 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/002.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/003.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/004.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/005.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/006.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/007.jpeg"
+          "https://api.sweetbook.com/images/kids/002.jpg",
+          "https://api.sweetbook.com/images/kids/003.jpg",
+          "https://api.sweetbook.com/images/kids/004.jpg",
+          "https://api.sweetbook.com/images/kids/005.jpg",
+          "https://api.sweetbook.com/images/kids/006.jpg",
+          "https://api.sweetbook.com/images/kids/007.jpeg"
         ]
       }
     },
@@ -1056,11 +1056,11 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 연말 분위기가 물씬 풍기는 12월입니다. 오전 간식으로 식빵과 잼, 우유를 먹은 이안이는 자유놀이 시간에 산타에게 편지 쓰기 활동을 진행했어요. \"산타 아저씨한테 뭐 달라고 할 거야?\" 하고 물어보자 \"자동차!\" 하며 도화지에 자동차 그림을 그려 편지를 완성했답니다. 이후 크리스마스 쿠키 만들기도 진행했는데, 별 모양 틀로 반죽을 찍으며 \"이거 별이야\" 하고 하나씩 만들어보는 모습이었네요. 완성된 쿠키에 색소로 꾸미며 선물 준비를 하는 이안이였답니다. 점심은 완두콩밥, 순두부찌개, 생선구이, 감자조림, 배추김치가 나왔고, 밥과 반찬을 잘 먹었답니다.",
         "parentComment": "선생님 안녕하세요! 이안이가 트리 장식을 집에서도 하고 싶다며 매일 장식을 만들어요~ 크리스마스가 기대되나 봐요^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/183.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/184.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/185.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/186.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/187.jpg"
+          "https://api.sweetbook.com/images/kids/183.jpg",
+          "https://api.sweetbook.com/images/kids/184.jpg",
+          "https://api.sweetbook.com/images/kids/185.jpg",
+          "https://api.sweetbook.com/images/kids/186.jpg",
+          "https://api.sweetbook.com/images/kids/187.jpg"
         ]
       }
     },
@@ -1076,7 +1076,7 @@
         "teacherComment": "이안이 부모님 안녕하세요 :) 첫눈이 내린 신나는 날이었습니다! 이안이는 등원하자마자 \"밖에 눈 와!\" 하며 창밖을 가리키며 들뜬 모습이었어요. 오전 간식으로 따뜻한 감자수프를 먹고 나서 잠깐 실외로 나가 눈을 만져보았답니다. \"차갑다!\" 하면서도 눈을 꾹꾹 뭉쳐보며 \"눈사람 만들 거야\" 하고 즐거워했어요. 교실로 돌아와 눈사람 만들기 미술활동을 진행했는데, 솜으로 몸을 만들고 단추 눈, 당근 코를 붙이며 나만의 눈사람을 완성했답니다. 점심은 흑미밥, 미역국, 소고기장조림, 콩나물무침, 깍두기가 나왔고, 골고루 잘 먹었답니다.",
         "parentComment": "선생님 안녕하세요! 이안이가 트리 장식을 집에서도 하고 싶다며 매일 장식을 만들어요~ 크리스마스가 기대되나 봐요^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/015.jpeg"
+          "https://api.sweetbook.com/images/kids/015.jpeg"
         ]
       }
     },
@@ -1091,8 +1091,8 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 12월의 설레는 계절이 왔습니다! 오전 간식으로 핫초코와 쿠키를 먹으며 \"산타 아저씨가 이거 좋아해?\" 하고 물어보는 귀여운 이안이였어요. 자유놀이 시간에는 크리스마스 트리 꾸미기를 진행했답니다. 반짝이 구슬과 별 장식을 하나씩 걸며 \"여기에 붙일 거야\" 하고 꼼꼼하게 꾸며주었어요. 완성된 트리를 보며 \"우와 예쁘다!\" 하고 뿌듯한 표정이었답니다. 별 꼭대기 장식을 달 때는 까치발을 들며 \"닿을 것 같은데?\" 하고 열심히 손을 뻗는 모습도 있었네요. 점심은 잡곡밥, 어묵국, 돈까스, 양배추샐러드, 배추김치가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/147.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/148.jpg"
+          "https://api.sweetbook.com/images/kids/147.jpg",
+          "https://api.sweetbook.com/images/kids/148.jpg"
         ]
       }
     },
@@ -1119,8 +1119,8 @@
         "weatherKey": "w1",
         "teacherComment": "이안이 부모님 안녕하세요~ 12월의 설레는 계절이 왔습니다! 오전 간식으로 핫초코와 쿠키를 먹으며 \"산타 아저씨가 이거 좋아해?\" 하고 물어보는 귀여운 이안이였어요. 자유놀이 시간에는 크리스마스 트리 꾸미기를 진행했답니다. 반짝이 구슬과 별 장식을 하나씩 걸며 \"여기에 붙일 거야\" 하고 꼼꼼하게 꾸며주었어요. 완성된 트리를 보며 \"우와 예쁘다!\" 하고 뿌듯한 표정이었답니다. 별 꼭대기 장식을 달 때는 까치발을 들며 \"닿을 것 같은데?\" 하고 열심히 손을 뻗는 모습도 있었네요. 점심은 잡곡밥, 어묵국, 돈까스, 양배추샐러드, 배추김치가 나왔고, 돈까스를 좋아해 밥과 함께 잘 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/163.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/164.jpg"
+          "https://api.sweetbook.com/images/kids/163.jpg",
+          "https://api.sweetbook.com/images/kids/164.jpg"
         ]
       }
     },
@@ -1135,9 +1135,9 @@
         "weatherKey": "w2",
         "teacherComment": "이안이 부모님 안녕하세요~ 연말을 맞아 돌고래반 송년회를 진행했답니다! 오전 간식으로 떡볶이를 먹으며 \"떡볶이 좋아!\" 하고 기분 좋게 먹어주었어요. 자유놀이 시간에는 한 해 동안의 작품을 돌아보며 \"이거 내가 만든 거야!\" 하고 자랑하는 모습이었답니다. 친구들에게 \"올해 고마웠어!\" 하고 인사하며 선물 교환도 진행했어요. 이안이는 친구에게 받은 선물을 뜯으며 \"우와 이거 좋아!\" 하고 환호했답니다. 점심은 비빔밥, 소고기무국, 계란말이, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/067.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/068.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/069.jpg"
+          "https://api.sweetbook.com/images/kids/067.jpg",
+          "https://api.sweetbook.com/images/kids/068.jpg",
+          "https://api.sweetbook.com/images/kids/069.jpg"
         ]
       }
     },
@@ -1152,8 +1152,8 @@
         "weatherKey": "w4",
         "teacherComment": "이안이 부모님 안녕하세요~ 연말을 맞아 돌고래반 송년회를 진행했답니다! 오전 간식으로 떡볶이를 먹으며 \"떡볶이 좋아!\" 하고 기분 좋게 먹어주었어요. 자유놀이 시간에는 한 해 동안의 작품을 돌아보며 \"이거 내가 만든 거야!\" 하고 자랑하는 모습이었답니다. 친구들에게 \"올해 고마웠어!\" 하고 인사하며 선물 교환도 진행했어요. 이안이는 친구에게 받은 선물을 뜯으며 \"우와 이거 좋아!\" 하고 환호했답니다. 점심은 비빔밥, 소고기무국, 계란말이, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 먹었답니다.",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/080.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/081.jpg"
+          "https://api.sweetbook.com/images/kids/080.jpg",
+          "https://api.sweetbook.com/images/kids/081.jpg"
         ]
       }
     },
@@ -1169,11 +1169,11 @@
         "teacherComment": "이안이 부모님 안녕하세요~ 연말을 맞아 돌고래반 송년회를 진행했답니다! 오전 간식으로 떡볶이를 먹으며 \"떡볶이 좋아!\" 하고 기분 좋게 먹어주었어요. 자유놀이 시간에는 한 해 동안의 작품을 돌아보며 \"이거 내가 만든 거야!\" 하고 자랑하는 모습이었답니다. 친구들에게 \"올해 고마웠어!\" 하고 인사하며 선물 교환도 진행했어요. 이안이는 친구에게 받은 선물을 뜯으며 \"우와 이거 좋아!\" 하고 환호했답니다. 점심은 비빔밥, 소고기무국, 계란말이, 김구이, 배추김치가 나왔고, 비빔밥을 맛있게 먹었답니다.",
         "parentComment": "선생님 안녕하세요! 이안이가 트리 장식을 집에서도 하고 싶다며 매일 장식을 만들어요~ 크리스마스가 기대되나 봐요^^",
         "photos": [
-          "https://www.sweetbook.com/api_sweetbook/images/kids/115.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/116.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/117.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/118.jpg",
-          "https://www.sweetbook.com/api_sweetbook/images/kids/119.jpg"
+          "https://api.sweetbook.com/images/kids/115.jpg",
+          "https://api.sweetbook.com/images/kids/116.jpg",
+          "https://api.sweetbook.com/images/kids/117.jpg",
+          "https://api.sweetbook.com/images/kids/118.jpg",
+          "https://api.sweetbook.com/images/kids/119.jpg"
         ]
       }
     }
