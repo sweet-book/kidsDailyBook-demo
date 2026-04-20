@@ -388,7 +388,7 @@ async function createAlrimjangBook() {
     const startTime = Date.now();
     try {
         appendLog(`알림장${alrimType} 책 생성 시작...`, 'info'); appendLog(`API: ${getBaseUrl()}`, 'info');
-        const createResult = await client.books.create({ title: bookTitle, bookSpecUid: 'SQUAREBOOK_HC', creationType: apiEnv === 'live' ? 'LIVE' : 'TEST' });
+        const createResult = await client.books.create({ title: bookTitle, bookSpecUid: 'SQUAREBOOK_HC', creationType: 'TEMPLATE' });
         const bookUid = createResult.bookUid || createResult.uid;
         appendLog(`책 생성 완료: ${bookUid}`, 'success');
 
