@@ -2,50 +2,23 @@
  * 알림장 앱 UI — 이벤트 핸들링, 파일 업로드, 책 생성 실행
  */
 
-let client = null;
-let _paused = false;     // 일시중지 요청 플래그
-let _saved = null;       // 이어서하기용 스냅샷
+// SDK와 API Key는 이 demo의 백엔드(server.js)에만 존재합니다.
+// 프론트는 /api/* 로만 통신하고, 백엔드가 Sweetbook SDK를 들고 대리 호출합니다.
 
-// ── 환경별 API Key 저장 ──
-const _envKeys = { live: '', sandbox: '' };
+let client = null;           // backend-client.js의 fetch 기반 bridge. SDK가 아님.
+let currentEnv = 'sandbox';  // 서버에서 주입
+let _paused = false;
+let _saved = null;
 
-function getSelectedEnv() {
-    return document.querySelector('input[name="apiEnv"]:checked')?.value || 'sandbox';
-}
-
-function onEnvChange() {
-    const keyInput = document.getElementById('userApiKey');
-    const prev = document.querySelector('input[name="apiEnv"]:not(:checked)')?.value;
-    if (prev && keyInput) _envKeys[prev] = keyInput.value;
-    const env = getSelectedEnv();
-    if (keyInput) keyInput.value = _envKeys[env] || '';
-    const warn = document.getElementById('envWarning');
-    if (warn) {
-        const isLocal = location.hostname === 'localhost' || location.hostname === '127.0.0.1';
-        warn.style.display = (env === 'live' && isLocal) ? '' : 'none';
-    }
-    client = null;
-}
-
-// ── config.js 기본값 적용 ──
 document.addEventListener('DOMContentLoaded', async () => {
-    if (typeof APP_CONFIG !== 'undefined') {
-        if (APP_CONFIG.environments) {
-            const envs = APP_CONFIG.environments;
-            if (envs.live?.apiKey) _envKeys.live = envs.live.apiKey;
-            if (envs.sandbox?.apiKey) _envKeys.sandbox = envs.sandbox.apiKey;
-        } else if (APP_CONFIG.userApiKey) {
-            _envKeys.live = APP_CONFIG.userApiKey;
-            _envKeys.sandbox = APP_CONFIG.userApiKey;
-        }
-        const defaultEnv = APP_CONFIG.defaultEnv || 'sandbox';
-        const radio = document.querySelector(`input[name="apiEnv"][value="${defaultEnv}"]`);
-        if (radio) radio.checked = true;
-        document.getElementById('userApiKey').value = _envKeys[getSelectedEnv()] || '';
+    try {
+        const info = await fetch('/api/env').then(r => r.json());
+        currentEnv = info.env || 'sandbox';
+    } catch (e) {
+        console.error('환경 조회 실패:', e);
     }
-    document.querySelectorAll('input[name="apiEnv"]').forEach(r => {
-        r.addEventListener('change', onEnvChange);
-    });
+    renderEnvBanner();
+    client = window.createBackendClient();
     await loadTemplateUids();
     updateTemplateUids();
     loadGraphics();
@@ -61,28 +34,20 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
 });
 
-function getBaseUrl() {
-    const env = getSelectedEnv();
-    let apiUrl;
-    if (typeof APP_CONFIG !== 'undefined' && APP_CONFIG.environments?.[env]?.url) {
-        apiUrl = APP_CONFIG.environments[env].url;
+function renderEnvBanner() {
+    const el = document.getElementById('envBanner');
+    if (!el) return;
+    if (currentEnv === 'live') {
+        el.textContent = '운영 환경 — 실제 책이 생성됩니다.';
+        el.className = 'env-banner env-banner-live';
     } else {
-        const url = APP_CONFIG?.apiServers?.[0]?.url || document.getElementById('apiServer')?.value || 'https://api.sweetbook.com/v1';
-        apiUrl = env === 'sandbox' ? url.replace('://dev-api.', '://dev-api-sandbox.').replace('://api.', '://api-sandbox.') : url;
+        el.textContent = '샌드박스 환경 — 테스트 책만 생성됩니다.';
+        el.className = 'env-banner env-banner-sandbox';
     }
-    if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
-        return `/proxy/api/${apiUrl}`;
-    }
-    return apiUrl;
 }
 
 function getClient() {
-    const apiKey = document.getElementById('userApiKey').value.trim();
-    const baseUrl = getBaseUrl();
-    const useCookie = (typeof APP_CONFIG !== 'undefined' && APP_CONFIG.useCookie) || false;
-    if (!apiKey && !useCookie) { alert('API Key를 입력하세요.'); return null; }
-    _envKeys[getSelectedEnv()] = apiKey;
-    client = new SweetbookClient({ apiKey: apiKey || undefined, baseUrl, useCookie });
+    if (!client) client = window.createBackendClient();
     return client;
 }
 
@@ -368,7 +333,6 @@ async function resumeBook() {
 async function createAlrimjangBook() {
     const bookTitle = document.getElementById('bookTitle').value.trim();
     const bookTitleLabel = document.getElementById('bookTitleLabel').value.trim() || bookTitle;
-    const apiEnv = getSelectedEnv();
     const alrimType = document.querySelector('input[name="alrimType"]:checked').value;
     if (!bookTitle) { alert('책 제목을 입력하세요.'); return; }
     if (!getClient()) return;
@@ -387,7 +351,7 @@ async function createAlrimjangBook() {
     logArea.innerHTML = ''; logArea.style.display = 'block';
     const startTime = Date.now();
     try {
-        appendLog(`알림장${alrimType} 책 생성 시작...`, 'info'); appendLog(`API: ${getBaseUrl()}`, 'info');
+        appendLog(`알림장${alrimType} 책 생성 시작...`, 'info'); appendLog(`API: ${currentEnv} (backend: /api/*)`, 'info');
         const createResult = await client.books.create({ title: bookTitle, bookSpecUid: 'SQUAREBOOK_HC', creationType: 'TEMPLATE' });
         const bookUid = createResult.bookUid || createResult.uid;
         appendLog(`책 생성 완료: ${bookUid}`, 'success');
