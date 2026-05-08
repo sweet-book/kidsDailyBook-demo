@@ -304,7 +304,8 @@ async function processEntries(ctx) {
     const publishResult = await sdkPostContent(client, bookUid, tplUids.publish, publishParams, 'page');
     appendLog('발행면 완료', 'success');
 
-    const totalPages = publishResult?.pageCount || 0;
+    // v0.3.0 SDK 부터 단건 응답은 pageMeta.currentPageCount 로 통일. 옛 pageCount 도 fallback.
+    const totalPages = publishResult?.pageMeta?.currentPageCount ?? publishResult?.pageCount ?? 0;
     const totalTime = Date.now() - startTime;
     appendLog(`책 생성 완료! bookUid: ${bookUid}, 총 ${totalPages}페이지, 소요시간: ${(totalTime/1000).toFixed(2)}초`, 'success');
     loading.classList.remove('show');
